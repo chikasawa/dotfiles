@@ -1,19 +1,5 @@
 # Bash Completion (install bash-completion with homebrew to enable it
-if [ -f $(brew --prefix)/etc/bash_completion ]; then
-  . $(brew --prefix)/etc/bash_completion
-fi
+for i in $(brew --prefix)/etc/bash_completion.d/*.sh ; do . $i ; done
 
-eval "$(rbenv init -)"
-
-EDITOR="mvim -v"
-export EDITOR="$EDITOR"
-
-alias vi="$EDITOR"
-alias vim="$EDITOR"
-alias vimdiff="mvimdiff -v"
-
-alias git=hub
-
-alias ls="ls -G"
-alias gg="open -a gitx"
-alias c="clear"
+# Rbenv
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi

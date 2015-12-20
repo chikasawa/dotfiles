@@ -1,78 +1,64 @@
-[user]
-  name = Rafael Mendonça França
-  email = rafaelmfranca@gmail.com
-[core]
-  excludesfile = ~/.gitignore
 [color]
   diff = auto
+  grep = auto
+  interactive = auto
   status = auto
   branch = auto
-  interactive = auto
-  grep = always
+  status = auto
+  ui = auto
+
 [alias]
-  a = add
+  st = status
+  s = status -sb
+  ci = commit
+  cm = commit -m
   b = branch
-  ba = branch -a
-  c = commit -v
-  ca = commit -v -a
-  cam = commit --amend
-  co = checkout
-  cp = cherry-pick
+  bb = for-each-ref --sort='-authordate:iso8601' --format='%(color:yellow)%(authordate:relative)%09%09%(color:green)%(refname:short)' refs/heads
   d = diff
-  dc = diff --cached
-  dm = diff master
-  dw = diff --word-diff=color
-  f = fetch
-  fix = commit --amend -C HEAD
-  l = log --graph
-  m = merge --no-edit
-  mf = merge --ff-only
-  p = push
-  pu = push -u
-  pl = pull
-  pr = pull-request
-  r = reset
-  rb = rebase
-  rba = rebase --abort
-  rbc = rebase --continue
-  rbi = rebase --ignore
-  rh = reset --hard
-  rmb = !sh -c 'git branch -d $1 && git push origin :$1' -
-  s = status -s
-  sa = stash apply
+  ap = add --patch
+  ds = diff --staged
+  tags = tag -l
+  branches = branch -a
+  remotes = remote -v
   sp = stash pop
-  sq = rebase --interactive origin/master
-  ss = stash
-  un = reset HEAD
+  rc = rebase --continue
+  rim = rebase -i master
+  r = reset
+  r1 = reset HEAD^
+  r2 = reset HEAD^^
+  rh = reset --hard
+  rh1 = reset HEAD^ --hard
+  rh2 = reset HEAD^^ --hard
+  fup = log --since '1 day ago' --oneline --author chikasawa@gmail.com
+  rank = shortlog -sn --no-merges
+  cl = "!git log $1..${2:-master} --oneline --no-merges --pretty=format:'- %s (%h)'"
+  l = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  ls = log --pretty=format:'%C(yellow)%h %C(blue)%ad%C(red)%d %C(reset)%s%C(green) [%cn]' --decorate --date=short
+  lsv = log --pretty=format:'%C(yellow)%h %C(blue)%ad%C(red)%d %C(reset)%s%C(green) [%cn]' --decorate --date=short --numstat
+  co = checkout
+  fix = commit --amend
+  pom = push origin master
+	latest = for-each-ref --count=10 --sort=-committerdate --format='%(committerdate:short) %(refname:short)'
+
+[core]
+  editor = atom -w -n
+  excludesfile = /opt/boxen/config/git/gitignore
+
 [push]
   default = current
+
+[user]
+  name = Robson Chikasawa
+  email = chikasawa@gmail.com
+
 [merge]
-  tool = vimdiff
   ff = false
-[apply]
-  whitespace = nowarn
-[format]
-  pretty = %C(yellow)%h%Cblue%d%Creset %s %C(green) %an, %ar%Creset
-[branch]
-  autosetuprebase = always
-[help]
-  autocorrect = -1
-[log]
-  date = local
-[grep]
-  lineNumber = true
-[hub]
-  protocol = https
-
-
-[credential]
-	helper = osxkeychain
-
-[mergetool]
-  keepBackup = false
 
 [pull]
-rebase = true
+  rebase = true
 
-[gh]
+[credential]
+helper = /opt/boxen/bin/boxen-git-credential
+
+[hub]
 protocol = https
