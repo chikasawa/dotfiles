@@ -1,6 +1,6 @@
 # Dirs
 # ====
-alias homecaixa="cd ~/Projetcs/cxdigital/box-digital-qa"
+alias homecaixa="cd ~/Projects/youse"
 alias dboxen="cd /opt/boxen/repo"
 
 # Config
@@ -57,5 +57,5 @@ alias rethinkdb.stop='launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.reth
 alias mongodb.start='launchctl load ~/Library/LaunchAgents/homebrew.mxcl.mongodb.plist'
 alias mongodb.stop='launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.mongodb.plist'
 
-alias redis.start='launchctl load ~/Library/LaunchAgents/homebrew.mxcl.redis.plist'
-alias redis.stop='launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.redis.plist'
+# alias redis.start='launchctl load ~/Library/LaunchAgents/homebrew.mxcl.redis.plist'
+# alias redis.stop='launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.redis.plist'
