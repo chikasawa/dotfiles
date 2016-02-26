@@ -1,6 +1,6 @@
 # Dirs
 # ====
-alias homecaixa="cd ~/Projects/youse"
+alias dyouse="cd ~/Projects/youse"
 alias dboxen="cd /opt/boxen/repo"
 
 # Config
