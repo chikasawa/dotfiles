@@ -1,0 +1,4 @@
+---
+0.0.1 hashie:>= 3.0,rails:~> 4.0|checksum:9406b4ea0ce922a76dfaf778eb9cd85956efaa075efb19189d78a4b6f1d6e095
+0.0.2 activesupport:~> 4.0,hashie:>= 3.0|checksum:f75e74e6c5da21a6088ced872706b140b4a83cd9b3103384279ef7ed2b114a8d
+0.0.4 hashie:>= 3.0|checksum:64765ac798448d933f80f06a477af936646959b36be805cd568b16e72e236281

@@ -1,0 +1,3 @@
+---
+0.1.0 activesupport:>= 4.0.0,faraday:~> 0.8,faraday_middleware:~> 0.9|checksum:f0d43b0099d68481fcdc41a8497d476fd6ffa99f0e0342dc12a62c16cb783a25
+0.2.0 actionpack:>= 4.0.0,faraday:~> 0.8,faraday_middleware:~> 0.9|checksum:dbbb152ae79210bcf8d436b1a277fdcfe3ce6df5b777f7d0a150497f2d46ff8e

@@ -1,0 +1,5 @@
+---
+1.0.0 activesupport:>= 0|checksum:ab1ff8f6dad862eb40fc49f62e7153ee7a9625ea45fd311b6caee16df937b283
+1.0.1 activesupport:>= 0|checksum:498027b841b85f9796f45296f481d4e0415b299d04f3020cba84a4ef4166286d
+1.0.3 activesupport:>= 0|checksum:3c291bfe3f51c99427cd80dc35541a6a959b1ed48bc707ee60b848666f6cd583,ruby:>= 2.2.0
+1.0.4 activesupport:>= 0|checksum:0e515396afeeddc6c4a294d0156728dbea28b642ff8ab2320bc08d1505c2e27d,ruby:>= 2.2.0

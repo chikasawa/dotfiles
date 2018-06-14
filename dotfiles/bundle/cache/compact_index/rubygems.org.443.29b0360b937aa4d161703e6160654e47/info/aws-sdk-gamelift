@@ -1,0 +1,20 @@
+---
+1.0.0.rc1 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:56757ea2876d7fd09a12b823b3063058156febfb23ed7be3c7adc98304d0e671,rubygems:> 1.3.1
+1.0.0.rc2 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:82a946790cc020442ac721e56058e1931f668b15600e6d0401a295cd381a6679,rubygems:> 1.3.1
+1.0.0.rc3 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:b33459a1bb3a65a2e971601a7ef48493271d8a0bea7d246e8cb6ea2576f5fc80,rubygems:> 1.3.1
+1.0.0.rc4 aws-sdk-core:= 3.0.0.rc9,aws-sigv4:~> 1.0|checksum:954660ad26d114ed97f84c8b3ca6d9e4d471b576c95581682df796c96aea1da8,rubygems:> 1.3.1
+1.0.0.rc5 aws-sdk-core:= 3.0.0.rc9,aws-sigv4:~> 1.0|checksum:8fc2e87e816df5b6a0039a1104356135466859fac29eedf5bc0f5b19290ec10f,rubygems:> 1.3.1
+1.0.0.rc6 aws-sdk-core:~> 3.0.0.rc12,aws-sigv4:~> 1.0|checksum:a74b154587140ad474b649c65849ab9745472b4a5a98af6706d7f2dad98b3ed7,rubygems:> 1.3.1
+1.0.0.rc7 aws-sdk-core:~> 3.0.0.rc14,aws-sigv4:~> 1.0|checksum:9d68c884bc5f13e83a216b79adab3cc3df80373450d87bb5638f81e69c78c9dd,rubygems:> 1.3.1
+1.0.0.rc8 aws-sdk-core:~> 3.0.0.rc15,aws-sigv4:~> 1.0|checksum:a6f766cb026271bbcf1cf12da57f36e0bcbfda0b7280530c2dcecc5d8cac0ea9,rubygems:> 1.3.1
+1.0.0.rc9 aws-sdk-core:~> 3.0.0.rc17,aws-sigv4:~> 1.0|checksum:5e318a31d401948252da2d761c2d1811b99eea83236a351d8425cd75b7c157b0,rubygems:> 1.3.1
+1.0.0.rc10 aws-sdk-core:~> 3.0.0.rc18,aws-sigv4:~> 1.0|checksum:2bf130a12dd701b7269572e61310968225c9382ca41c96ea2dbd186c32c01d9d,rubygems:> 1.3.1
+1.0.0.rc11 aws-sdk-core:~> 3.0.0.rc19,aws-sigv4:~> 1.0|checksum:aafb8d5deeabf01ddf8eeefa48f5ebafd2b2f776c657a4b4460ca443aced8afe,rubygems:> 1.3.1
+1.0.0.rc13 aws-sdk-core:~> 3.0.0.rc20,aws-sigv4:~> 1.0|checksum:503b9d26dd04d7d0e3b868fdd4973294e7b4c823f7aea96c7b9646e6b624adcc,rubygems:> 1.3.1
+1.0.0.rc14 aws-sdk-core:~> 3.0.0.rc20,aws-sigv4:~> 1.0|checksum:8c9f279490b7d1756ee951fac575171b95c9c6d9d49ba88df47c8284c1038ed5,rubygems:> 1.3.1
+1.0.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:55a97caaedf56abf3c6d76823ac0072949ded520129abec922dcfa3c8accf350
+1.1.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:b68bf264eb3799b82a2e5b0d5439c75142c3f9b398fe91bd61459ba3036c8f9c
+1.0.0.rc12 aws-sdk-core:~> 3.0.0.rc20,aws-sigv4:~> 1.0|checksum:8727759a65104aa1d2ff1aa6ee77ea57405a838cc35cbbb2fffcd697057cb7ef,rubygems:> 1.3.1
+1.2.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:489c5f34ee1d2f3302d9e449a937f2f89a26578169d53f276e4edbef9922fed1
+1.3.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:7f82663178d9a9383cd3c923765adb2a1abe078efa4204bee2778531e608eb41
+1.4.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:d6671c92c92db59236758192686b56c083c08f2dae89334a1849e5303a5fa6cd

@@ -1,0 +1,16 @@
+---
+1.0.0.rc1 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:d434d9ddd9ab9afecb2dda7e36b9e9f7360dca4dfd5ccfee238b0bd9cf2132b0,rubygems:> 1.3.1
+1.0.0.rc2 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:d3e2ec4a0f8e0fdcaebcbe565065d01584cc490ffed9e1f1c4aa1734a481293b,rubygems:> 1.3.1
+1.0.0.rc3 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:153e579d52e197e1db11c970cf297a228171c5172193a5befcff59e58828105d,rubygems:> 1.3.1
+1.0.0.rc4 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:606681f46d3c2cd0dbe4e84d3671ae127904fa9cf4a091edb0db91d9d88496b1,rubygems:> 1.3.1
+1.0.0.rc5 aws-sdk-core:= 3.0.0.rc9,aws-sigv4:~> 1.0|checksum:14a6fcc11b2997f813413f07b1975f0ddbbc939c6b54a96018f9e1506f31466a,rubygems:> 1.3.1
+1.0.0.rc6 aws-sdk-core:= 3.0.0.rc9,aws-sigv4:~> 1.0|checksum:35932cb7dad6faa3deff2eb0b81f269c17df9ee98dd35e7cc6c6fbcbd6dafaae,rubygems:> 1.3.1
+1.0.0.rc7 aws-sdk-core:~> 3.0.0.rc12,aws-sigv4:~> 1.0|checksum:197b9f92e350d61bb440f0bbc5e6395cd8c67cd82ae1152316e1ba8c25860017,rubygems:> 1.3.1
+1.0.0.rc8 aws-sdk-core:~> 3.0.0.rc14,aws-sigv4:~> 1.0|checksum:a6f28f843d53cbcdb1451456aac6d26957672558b19a44bd0b25f12bf09f1061,rubygems:> 1.3.1
+1.0.0.rc9 aws-sdk-core:~> 3.0.0.rc16,aws-sigv4:~> 1.0|checksum:cff9cba343c559ae74eb0602088126b678fafe378128700790820b88567ff447,rubygems:> 1.3.1
+1.0.0.rc10 aws-sdk-core:~> 3.0.0.rc17,aws-sigv4:~> 1.0|checksum:33fc79dcf9da3347cc9fc274fbf38332e8ab528a07738a2ae9f60534c7819cf0,rubygems:> 1.3.1
+1.0.0.rc11 aws-sdk-core:~> 3.0.0.rc18,aws-sigv4:~> 1.0|checksum:9c7535349ca814f861597cd15689532c988fc771115cbe63ebfe8249c6b38ddf,rubygems:> 1.3.1
+1.0.0.rc12 aws-sdk-core:~> 3.0.0.rc19,aws-sigv4:~> 1.0|checksum:6dd48a2ef9001d59247e9c12315ae6a157199043fda8d6a7b0da291c6617f564,rubygems:> 1.3.1
+1.0.0.rc13 aws-sdk-core:~> 3.0.0.rc20,aws-sigv4:~> 1.0|checksum:16310b0e335328324a190393febe8506ba3477b7715c29c9d44c2a948482a5f4,rubygems:> 1.3.1
+1.0.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:a0b51ede577921508e9150ca7e24fdba6a721abbb3da44c8519ba39b9471749a
+1.1.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:9562dcf53b9721816059ef0a3679d324283e1572ab11de2d9f9db228550f592a

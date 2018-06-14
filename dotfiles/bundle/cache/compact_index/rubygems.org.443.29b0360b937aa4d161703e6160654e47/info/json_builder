@@ -1,0 +1,28 @@
+---
+1.0.1 json:~> 1.4.3|checksum:3af7b6e8077e6a842d1d22435e914c86669bfb9674050e9ebd079ada38079fb9
+1.0.2 json:~> 1.4.3|checksum:00cddaecaa9f7eebdfdae67092de1f26cba3cdad7af09e1b5ae1b2f51fb9cdce
+1.1 json:~> 1.4.3|checksum:805b674c46a33be3fc34e224305e8c28b36d2581908c09826ee3e8c40e43b563
+1.1.1 json:~> 1.4.3|checksum:b8ddb83192eadeeb675941bc47d817303441b89c20c8bfb14ecc39d1653c1cb1
+1.1.2 json:~> 1.4.3|checksum:12338b734baa983ff6f314a6ca77150a7206016bd4790b40cd0aa6ea64c0617d
+2.0.0 actionpack:~> 3.0.0,activesupport:~> 3.0.0,json:>= 0|checksum:a4cf2ac07d3f00ec037256d27aa9818c5145f4b203a3ba80064382a4a1364bfc
+2.0.1 actionpack:~> 3.0.0,activesupport:~> 3.0.0,json:>= 0|checksum:492fc15e200940dfd8b9eda4f3e7a99a5492f7cfdc9c0884254f7499b7ba7a08
+2.0.2 actionpack:~> 3.0.0,activesupport:~> 3.0.0,json:>= 0|checksum:92121ac9582e9ad6ffa1bbe86a4d3144bd8f79f2019547b516e6fe338412fc4e
+2.0.3 actionpack:~> 3.0.0,activesupport:~> 3.0.0,json:>= 0|checksum:94d47a2a68030c45124053515b87b1a4b5dc8a00c835d48d685c0ce4e4293575
+2.0.4 actionpack:~> 3.0.0,activesupport:~> 3.0.0,json:>= 0|checksum:59c0fa848cc0fe145a53b037a742a7740de794e40c615839177108e1f78d2451
+2.0.5 actionpack:~> 3.0.0,activesupport:~> 3.0.0,json:>= 0|checksum:0bf591061fb5b7ef0eacfc2bbe1cb67a74f0089474a0af6225ca8dcc24ca605a
+2.0.6 actionpack:~> 3.0.0,activesupport:~> 3.0.0,json:>= 0|checksum:938d0bf7b5a8d2be780657e5d4a9805b255028f6fb5cd5ce46ff7a85327b90f6
+3.0.0 activesupport:>= 2.0.0|checksum:0d9baa2c2f2f1d77177b2f89286871444d058d5d0c2367cc243d366b32a283b9
+3.0.1 activesupport:>= 2.0.0|checksum:4f7e7f02863628045fbef07118abbf0ca7787ca2743a2c2d9656fd710c021fa2
+3.0.2 activesupport:>= 2.0.0|checksum:50646b53413b3591e58fa60c115e71ddeea4677bf495fe2534dddae907bd31a6
+3.0.3 activesupport:>= 2.0.0|checksum:a153b6dbfecfee6c5c3b7a95f837668b859b5f8dcec30cf04d04486a8bfe2bc8
+3.0.4 activesupport:>= 2.0.0|checksum:59f39c786f5af26fa45ffe77ef4c6d76895dfa5423ee44cfca38a47ddb368d98
+3.0.6 activesupport:>= 2.0.0|checksum:f6844010f9afab43ef92fb1e0b3a767660aa9d18820f1721cd5201ed7f8fdd5f
+3.0.7 activesupport:>= 2.0.0|checksum:0b0167ed25bca1bdaf576303e7dec524356cf119a7bc17c036a070e5d3a05f20
+3.1.0 activesupport:>= 2.0.0|checksum:f4f95f43c96ff77f477c4d88dafa770c01b9274afd3703518073025976398a90
+3.1.1 activesupport:>= 2.0.0|checksum:54c730c4b1b41bd356325004fad633788cb52387a325466b3cbb44e3e6fe47e6
+3.1.2 activesupport:>= 2.0.0|checksum:be02a0d0559c4e761f4021997150693e14747f1ff82ef12cf2462537703578f9
+3.1.3 activesupport:>= 2.0.0|checksum:18a6281ab746fea172bae326384e2d1c9f67387908692edd9d188f78fc987491
+3.1.4 activesupport:>= 2.0.0|checksum:c189ef419c70ec6e1a10ad57d8267fa25cb18f458649874bde04c11289a28d11
+3.1.5 activesupport:>= 2.0.0|checksum:cc212a43b53002e04f98af36bd285c78a88a52cbf8743cb01265ed52b80a7aa9
+3.1.6 activesupport:>= 2.0.0,json:>= 0|checksum:a0749e28a044f017d3bcb79103d6cce4cdd39317399c5c9e8b0e373cb18bcff2
+3.1.7 activesupport:>= 2.0.0,json:>= 0|checksum:100a77f33693c310d275fbe4cd00cafc0dc8bdd8310011fe635c395444ec3f51

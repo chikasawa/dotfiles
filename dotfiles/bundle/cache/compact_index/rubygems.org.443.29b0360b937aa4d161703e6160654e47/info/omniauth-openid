@@ -1,0 +1,6 @@
+---
+1.0.0.beta1 omniauth:= 1.0.0.beta1,rack-openid:~> 1.3.1|checksum:e9331d90391af82c77af6e2087e31689e2ce88357a055e257cf8ac1a49f87620,rubygems:> 1.3.1
+1.0.0.rc1 omniauth:= 1.0.0.beta1,rack-openid:~> 1.3.1|checksum:979cbcbfc23f2f6adad44a94cce07baed35a5180e2d45bfbda695d71aa7561d8,rubygems:> 1.3.1
+1.0.0.rc2 omniauth:~> 1.0.0.rc2,rack-openid:~> 1.3.1|checksum:2d43a15528e6bf0bd8a2449225bd4db00501451ea18c3fc293190847b594369d,rubygems:> 1.3.1
+1.0.0 omniauth:~> 1.0,rack-openid:~> 1.3.1|checksum:3c63fdf5a13a070338e136b064c146dce760f50740f57ac2afa2dfae9ffaa9b5,rubygems:>= 1.3.6
+1.0.1 omniauth:~> 1.0,rack-openid:~> 1.3.1|checksum:823bce35528072340b4a8a30ebd78e20d1a68178e222b88fe1dd977a88a457e2,rubygems:>= 1.3.6

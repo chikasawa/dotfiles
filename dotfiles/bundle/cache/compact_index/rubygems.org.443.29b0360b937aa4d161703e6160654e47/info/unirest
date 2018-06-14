@@ -1,0 +1,4 @@
+---
+1.0.8 addressable:>= 0,json:>= 0,rest-client:>= 0|checksum:991c43b2e4cf34f5cf00b6f2e8f97cfa72770c8d485930bee51d761439e4466d
+1.1.1 addressable:~> 2.3.5,json:~> 1.8.1,rest-client:~> 1.6.7|checksum:365487c9cae00754056ccf4350469a5ff38281b49060529ef32c9df902bd2007
+1.1.2 addressable:~> 2.3.5,json:~> 1.8.1,rest-client:~> 1.6.7|checksum:29ce575f1b0f0f5b700e0516647b86fbe1ba98014975bd43bc8e108ca5c7ed59

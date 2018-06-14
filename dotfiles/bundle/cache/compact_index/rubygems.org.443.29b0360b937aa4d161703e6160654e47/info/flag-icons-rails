@@ -1,0 +1,4 @@
+---
+1.1.1 sass:~> 3.2|checksum:bbf05d109271ac611919d267adb6fde1098daf148263bcbab41ae520593e9c19
+1.1.2 sass:~> 3.2|checksum:980704703fee6a92e5e95342ca1085af1b1bd5285940e1c1c62cb933d2cf94f3
+2.5.0 sass:~> 3.2|checksum:97bce85bd4417d663603cd502db3eabaee19a0bad24626f8f5d8b8f5c221d3fa,ruby:>= 2.0

@@ -1,0 +1,27 @@
+---
+0.1.0 eventmachine:>= 0,faraday:>= 0,faraday_middleware:>= 0,faye-websocket:>= 0|checksum:32930bbb4d51dd1064f4873b10b795fe3d73e40d2026db4d7643824294ea2caa,rubygems:>= 1.3.6
+0.2.0 eventmachine:>= 0,faraday:>= 0,faraday_middleware:>= 0,faye-websocket:>= 0|checksum:a62c1bd394f83e39a7daac3832973845664382fec82084738e28c242ae778a3f,rubygems:>= 1.3.6
+0.2.1 eventmachine:>= 0,faraday:>= 0,faraday_middleware:>= 0,faye-websocket:>= 0|checksum:6011837a50147ddd44ca758fcb8d8f540e641bdc394448f79d5a184ccc1d41ca,rubygems:>= 1.3.6
+0.3.0 eventmachine:>= 0,faraday:>= 0,faraday_middleware:>= 0,faye-websocket:>= 0|checksum:5d6f4d7d1ac08dc958fe0fc480a3ba72e42f363a2140de419d42f6d5b8c05d01,rubygems:>= 1.3.6
+0.3.1 eventmachine:>= 0,faraday:>= 0,faraday_middleware:>= 0,faye-websocket:>= 0|checksum:faf85bc1360c8777a934e1fd57bda84299aeb84704f4d2a1fbab8783f9207f10,rubygems:>= 1.3.6
+0.4.0 eventmachine:>= 0,faraday:>= 0,faraday_middleware:>= 0,faye-websocket:>= 0,json:>= 0|checksum:c6ba3993b1467a595c333e9767a2fca65c99bd24c7d9e17d5c4026d98a568475,rubygems:>= 1.3.6
+0.5.0 faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,json:>= 0,websocket-driver:>= 0|checksum:5377ee8c6878ab39a7aae1db636e7eb49ff185dfcf27253a488a8309480d2830,rubygems:>= 1.3.6
+0.5.1 faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,json:>= 0,websocket-driver:>= 0|checksum:fc73e8d5340ee801c503495b687236f7d5c22511a6cb59fb5f642a5c16a617cc,rubygems:>= 1.3.6
+0.5.2 faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,json:>= 0,websocket-driver:>= 0|checksum:55161167dac49daabc71b6d6d80c5d879b9786bea51672eedb1af5c27e2bbd3a,rubygems:>= 1.3.6
+0.5.3 faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,json:>= 0,websocket-driver:>= 0|checksum:3aca3068171ed0b6ba0737d5a6a1b6770d758da09f7339f7bff56c9c2149a30e,rubygems:>= 1.3.6
+0.5.4 faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,json:>= 0,websocket-driver:>= 0|checksum:4e8dbf2cc9ef1d2af38aed4382aa71a0f87bce5d1d2138569f1f964d95c263c7,rubygems:>= 1.3.6
+0.6.0 faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:607b6fb82b90b4d2a0eb14b35a3d843874f0517b6a5259f6047a55dcf84b5ed5,rubygems:>= 1.3.6
+0.7.0 activesupport:>= 0,faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:f956acdf4b7db00b60f31ed81259f8f3bc811d58eb06ba007bc4b443e1dce79a,rubygems:>= 1.3.6
+0.7.1 activesupport:>= 0,faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:ecb6aa48f8f193d3f5fcc288aaf02f1faa1c2056c16cd1d6f6ba3b87e2687021,rubygems:>= 1.3.6
+0.7.2 activesupport:>= 0,faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:00745bd78d2af4d8311a15c9f87f1791d63b56b310d5835fd1768a1c9dc714f8,rubygems:>= 1.3.6
+0.7.3 activesupport:>= 0,faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:ce9a10d309b95633781e2014e07dc4d0786b81684422eaf88ae143822dda83c0,rubygems:>= 1.3.6
+0.7.4 activesupport:>= 0,faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:1872533db7cd69ffa26f19e273ae91893f08ca03d89a38072d2a7682f9d51068,rubygems:>= 1.3.6
+0.7.5 activesupport:>= 0,faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:c6cb8e26da33eb6e062e8cba54d822e7cb8c7da009111c3379003373667a7c60,rubygems:>= 1.3.6
+0.7.6 activesupport:>= 0,faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:e57ff54476890c9e5ce44a74bc6a956e55a05df556adf8cea96dd454cd7b17d6,rubygems:>= 1.3.6
+0.7.7 activesupport:>= 0,faraday:>= 0,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:0e58ddfa9671ec06f10d6d501488cec089ee1738a3ad8909a7bab07a7a051f37,rubygems:>= 1.3.6
+0.7.8 activesupport:>= 0,faraday:>= 0.9,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:1553a070c8fe162c2a6c6e5264fde27821e9e715f6d25a0cb290b055dc271a39,rubygems:>= 1.3.6
+0.7.9 activesupport:>= 0,faraday:>= 0.9,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:9d50d5b9d80621a8b96005e819f768bdccf90e2f2a8919bf77eb2f89691068a9,rubygems:>= 1.3.6
+0.8.0 activesupport:>= 0,faraday:>= 0.9,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:ccccbf8499f9fb9aca5b400eea71f20e4bc4a0558dcbb68b9aae8040e0d40d2f,rubygems:>= 1.3.6
+0.8.1 activesupport:>= 0,faraday:>= 0.9,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:cdf98aefc6300ae24af0996b4cb1a233a8e26fbdc27c3172a13219cba0c58d82,rubygems:>= 1.3.6
+0.9.0 activesupport:>= 0,faraday:>= 0.9,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:61876d55165427d17b394f0aa3aeca9ed72d1e5519a6d5cb6d8a5c5441c05776,rubygems:>= 1.3.6
+0.9.1 activesupport:>= 0,faraday:>= 0.9,faraday_middleware:>= 0,gli:>= 0,hashie:>= 0,json:>= 0,websocket-driver:>= 0|checksum:6e5e2844ba4fda57e76e80eee73fe660c4e4ccb47f35f8b92b5fa454980c0223,rubygems:>= 1.3.6

@@ -1,0 +1,3 @@
+---
+1.0.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:033e5d47193deafd56af6fc0a02b0b7852ff9a80091a868153d8965dc30faccf
+1.1.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:46851a27a9bbd29928f96bfc19358e9a9b8f3705066595623aca849dbc1a707e

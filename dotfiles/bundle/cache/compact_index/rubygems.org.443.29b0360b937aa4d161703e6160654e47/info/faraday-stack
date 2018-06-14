@@ -1,0 +1,6 @@
+---
+0.1.0 faraday:~> 0.6|checksum:067a792ec020a74fa4ced60355c7b150729b306def2db5d1071159d72f2e0a2e
+0.1.2 faraday:~> 0.6|checksum:3fbffce9c4f525f9173cf8fc4bb9e9522e69c1deeeb2f7e8d95f8cc865bde98c
+0.1.3 faraday:~> 0.6|checksum:69560669ffb0c5f94b53e233f184d6fceebf01a15d3a10ceaa06ca270e65eec6
+0.1.4 faraday:< 0.8&>= 0.6|checksum:977a8f46d41441321cee4179b32e12ef68500ba5f3a89815d3f24b9b0708c377
+0.1.5 faraday:< 0.8&>= 0.6|checksum:a97b8782f9d2aa5ee688c0627479ad1d5092dcc4c2179e9dcefeda311825c4ba

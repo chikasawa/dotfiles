@@ -1,0 +1,6 @@
+---
+1.0.0 actionpack:< 4.1&>= 4.0.0.rc1|checksum:c7631b137c0530d70c4aa02adb81213fe06d2b0b42d37ff65def788d27ffb877
+1.0.1 actionpack:>= 4.0.0.rc1|checksum:9074f7d3ca7056c26671f025fe940438a5f416a8fa6297b7415294454016da1e
+1.0.2 actionpack:< 5&>= 4.0.0|checksum:6a3e2441711e3885d2fb6f6530049bb4672cf6ffb98c88dce9e8997e9a25559d,ruby:>= 1.9.3
+2.0.0 actionpack:~> 5.x,railties:~> 5.x|checksum:06111b35b279a54b1156bee13fae191377c84fe4f0207f01ddb13ac61168dad7,ruby:>= 2.2.2
+2.0.1 actionpack:>= 5.0,railties:>= 5.0|checksum:40cb461ee99445314ab580a783fb7413580deb8b28113c9e70ecd7c1b334d5e6,ruby:>= 2.2.2

@@ -1,0 +1,7 @@
+---
+0.0.1 devise:~> 2.1.2,railties:~> 3.0|checksum:da26d80d07caa3dbe68c024b822a453260ff259cb248297d08b575dd16af4ac8
+0.0.2 devise:>= 2.1.2,railties:~> 3.0|checksum:bfb551170f15e8966471ca4bd89a312c421fd0aa5b5b684daeebd5afcc6b9d04
+0.0.3 devise:>= 2.1.2,railties:>= 3.0|checksum:83393a590c2afce5d119f9b476110ae10b927d7195a6136b72916451887fbe9e
+0.0.4 devise:>= 3.0.0,railties:>= 3.0|checksum:57b72126d21b91c7df8ac90fea73e5a3bf6ec0147a6a24c62bf0e0db6f0a7bc2
+0.1.0 devise:>= 3.0.0,railties:>= 3.0|checksum:2745f4fdf0b76e32a9392d9a9b8d12af1befee030d7bbe646c702d9df50bead6
+0.1.1 devise:>= 3.0.0,railties:>= 3.0|checksum:d94362d349e22f773f5585c17e72e5b37583b17d9d8edff294cdf80e1a96c495

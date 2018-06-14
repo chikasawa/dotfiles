@@ -20,12 +20,13 @@ export GIT_PS1_SHOWSTASHSTATE=1
 export GIT_PS1_SHOWUNTRACKEDFILES=1
 export GIT_PS1_SHOWUPSTREAM=auto
 
+#Path
+PATH=$PATH:/usr/local/sbin
+
 # History
 export HISTCONTROL="ignoreboth:erasedups" # Erase duplicates in history
 export HISTSIZE=10000 # Store 10k history entries
 shopt -s histappend # Append to the history file when exiting instead of overwriting it
-
-[ -f /opt/boxen/env.sh ] && source /opt/boxen/env.sh
 
 # Customize the terminal input line
 prompt() {

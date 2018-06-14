@@ -1,0 +1,17 @@
+---
+1.0.0.rc1 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:d98441ee03938e0bdba8b579d4114d8435ec75d64a67a167e3741822e664b024,rubygems:> 1.3.1
+1.0.0.rc2 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:e728939a0efadd9b3ba76f73d753f2355290cc621f6929c89ebf0beaa970e2e2,rubygems:> 1.3.1
+1.0.0.rc3 aws-sdk-core:= 3.0.0.rc1,aws-sigv4:~> 1.0|checksum:5ab8a4717201d45088c516f54c0da537726e014f926b64d8a87ec30806f3c5ab,rubygems:> 1.3.1
+1.0.0.rc4 aws-sdk-core:= 3.0.0.rc9,aws-sigv4:~> 1.0|checksum:88f7c1500afb6a4f40efa4894cfb7b22b48e983ea857ebc07d9356229678a8b8,rubygems:> 1.3.1
+1.0.0.rc5 aws-sdk-core:= 3.0.0.rc9,aws-sigv4:~> 1.0|checksum:e846a3308e66776e6245e6044861e8e468d0eafdaf8e3a6771d10c3ccf7e9138,rubygems:> 1.3.1
+1.0.0.rc6 aws-sdk-core:~> 3.0.0.rc12,aws-sigv4:~> 1.0|checksum:a2cf026b450ca9bf0df55ddbe2744b0c11d529b241764391576235d8e1ecbcdb,rubygems:> 1.3.1
+1.0.0.rc7 aws-sdk-core:~> 3.0.0.rc14,aws-sigv4:~> 1.0|checksum:04bbf2d046d0b5e352558dd692224f7d36c4f30dbf51a3f88dbbf9a1fd8361e9,rubygems:> 1.3.1
+1.0.0.rc8 aws-sdk-core:~> 3.0.0.rc16,aws-sigv4:~> 1.0|checksum:1cdc937bcd24d2cfdea2aa2a11081fa68375a1b5fb7d26afc7775827c9664bc2,rubygems:> 1.3.1
+1.0.0.rc9 aws-sdk-core:~> 3.0.0.rc17,aws-sigv4:~> 1.0|checksum:b3db71027e21dc59aa459b710151436205b5ec173c59e234add03367a817e016,rubygems:> 1.3.1
+1.0.0.rc10 aws-sdk-core:~> 3.0.0.rc18,aws-sigv4:~> 1.0|checksum:7a241e417e5c24c595a9aa54a1d0bcbf046b3a5a0779e05706ca4453a6da34dc,rubygems:> 1.3.1
+1.0.0.rc11 aws-sdk-core:~> 3.0.0.rc19,aws-sigv4:~> 1.0|checksum:6159c82e9e4237b0006576df025af381a7374f18e9b89a4b4914b5a7fbe57e60,rubygems:> 1.3.1
+1.0.0.rc12 aws-sdk-core:~> 3.0.0.rc20,aws-sigv4:~> 1.0|checksum:e9e3e625ac8594ca6fd1b20ac9abbf5242b18db1c38c2b5e16933fd86ee937ac,rubygems:> 1.3.1
+1.0.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:b2a2b259359536bd51e430e8b1968a27f546cd2dbbdab2d4cb5e2287a7164a15
+1.1.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:eefc1fe259586a1b3ef0620949b1c0c5087c2406a516eb388f651887d6528c13
+1.2.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:2fb31533eaecb85ab94e01d7c7547e9811456fb001a5f5adb40f7323b0e6a8be
+1.3.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:ac3812c615d24c61d91778a0c43566e57af529037775f3eeb6de0c5e4a0eff0c

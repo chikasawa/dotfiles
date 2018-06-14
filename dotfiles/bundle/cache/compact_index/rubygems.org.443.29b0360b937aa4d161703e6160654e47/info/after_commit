@@ -1,0 +1,13 @@
+---
+1.0.0 activerecord:>= 0|checksum:77ac69f57dcfe3357cb1143dc7a87c13c714e16633201c9adf745a7bc69b755a
+1.0.1 activerecord:>= 0|checksum:0e2c89cd00516da2301b3afcee2564780bd7ec98a54f92ad55a02eaac2f9625c
+1.0.2 activerecord:>= 0|checksum:db4206069693d5937736989bade1924cee2fb728cb622483cdeb592ae40b4fe7
+1.0.3 activerecord:>= 0|checksum:b986498fc3ee671daec56d52293f3373493e22cfee9d58be19494a33356a1220
+1.0.4 activerecord:>= 0|checksum:f8091a6f4fe88608b72fac8acfa2b82072aa07ad3747c07be617db356b24f8a7
+1.0.5 activerecord:>= 0|checksum:85f3490ee1bc36109b9e99ca79ba0c4102c7ccadf8ace06291bb99b0be3db9dd
+1.0.6 activerecord:>= 0|checksum:b0df8a49574565d99beaf4763e9e1e011240f805cee5afd4434131da8ac8fa68
+1.0.7 activerecord:>= 0|checksum:bd958737977a82f91e50b476889bafac936197b4c78d4a51a3e3acca387fa2f8
+1.0.8 activerecord:< 3.0.0|checksum:b213baa50055ffc21329b48a5d8f736acec117269d3d58307fcad1e5b5f3e706
+1.0.9 activerecord:< 3.0.0&>= 1.15.6|checksum:288762dc98f6ae2c812ebc864f5ed1ff4c90b167eb7d9194ac8926492712e7a5
+1.0.10 activerecord:< 3.0.0&>= 1.15.6|checksum:343bc7ba840fe9c61976c5ec6191d2da07a7db0265a271109262ba03eeac5d51
+1.0.11 activerecord:< 3.0.0&>= 1.15.6|checksum:4c2fcf161f6aa92e903ffee83abcc8c46a96fa4bb1e1cec6e1d178884aee2da2

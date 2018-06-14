@@ -1,0 +1,9 @@
+---
+0.1.1.beta1 jsonapi-deserializable:= 0.1.1.beta3,jsonapi-parser:= 0.1.1.beta3,jsonapi-renderer:= 0.1.1.beta3,jsonapi-serializable:= 0.1.1.beta3|checksum:15bafc75b3a195b26df01198b2ef55f38b517eefbf691ecf1b51298806970df5,rubygems:> 1.3.1
+0.1.1.beta2 jsonapi-deserializable:= 0.1.1.beta3,jsonapi-parser:= 0.1.1.beta3,jsonapi-serializable:= 0.1.1.beta4|checksum:c867ef466a5eccbc9b5dd515ef0b0795ebb4f28e0e96f991b9183755774272de,rubygems:> 1.3.1
+0.1.1 jsonapi-deserializable:= 0.1.1,jsonapi-serializable:= 0.1.1|checksum:0eeb2416f87a028dcdfab63c15d0daa3c98233a481fa3291a0dd06fde4dd87dd
+0.1.2 jsonapi-deserializable:~> 0.1,jsonapi-serializable:~> 0.1|checksum:851fbee0ce0e483c10ce33476c685201fba2f300c7941654449ce647d233bc66
+0.2.1 jsonapi-deserializable:~> 0.1.0,jsonapi-serializable:~> 0.2.1|checksum:04fa3325d3356a479448cea0ed9d06cb7746e830c9054f667e3fc2bfca6d0baf
+0.3.0 jsonapi-deserializable:~> 0.2.0,jsonapi-serializable:~> 0.2.1|checksum:8a86aaff37f1fb4ea2b0cdd2c97a4ed50ff9ff1558fdd0bb2162ba53b35a0189
+0.4.0 jsonapi-deserializable:~> 0.2.0,jsonapi-serializable:~> 0.2.1|checksum:e6799f2984214db358a202d1ef41b9258f2970f8d1eefe8fbf3a02bee56fdbf7
+0.5.0 jsonapi-deserializable:~> 0.2.0,jsonapi-serializable:~> 0.3.0|checksum:7922a164278f506c43d56277f6bd0800a0b603cc985f7f63fe7241b2628bd105

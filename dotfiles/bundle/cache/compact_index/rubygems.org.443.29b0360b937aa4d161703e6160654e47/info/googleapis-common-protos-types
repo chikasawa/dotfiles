@@ -1,0 +1,3 @@
+---
+1.0.0 google-protobuf:~> 3.0|checksum:39bf90d32079c2a858c37c363b4e52964e456dd63fa34aaf2965ae433014d433,ruby:>= 2.0.0
+1.0.1 google-protobuf:~> 3.0|checksum:93910f12889288856b47167c69853cdf273b9df8e71bc46022ea72c48f06c179,ruby:>= 2.0.0

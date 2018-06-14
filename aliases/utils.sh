@@ -1,11 +1,13 @@
 # Dirs
 # ====
 alias dyouse="cd ~/Projects/youse"
-alias dboxen="cd /opt/boxen/repo"
 
 # Config
 # ======
 alias reload="source ~/.bash_profile && echo 'Bash reloaded! :D'"
+
+alias airportcycle='networksetup -setairportpower airport off; networksetup -setairportpower airport on'
+alias wifi=airportcycle
 
 # Shell
 # =====
@@ -32,6 +34,8 @@ alias s="spring"
 alias rdm="bin/rake db:migrate"
 alias rdr="bin/rake db:rollback"
 alias rof="bin/rspec --only-failures"
+alias rff="bin/rspec --fail-fast"
+alias dsl="RAILS_ENV=test bin/rake db:schema:load"
 
 # Others
 # ======
@@ -47,15 +51,26 @@ alias t="ruby -I'lib:test'"
 
 # Docker
 # ======
-alias dc="docker-compose"
+# alias dc="docker-compose"
 
 # Deamons
 # =======
-alias rethinkdb.start='launchctl load ~/Library/LaunchAgents/homebrew.mxcl.rethinkdb.plist'
-alias rethinkdb.stop='launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.rethinkdb.plist'
+# alias rethinkdb.start='launchctl load ~/Library/LaunchAgents/homebrew.mxcl.rethinkdb.plist'
+# alias rethinkdb.stop='launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.rethinkdb.plist'
 
-alias mongodb.start='launchctl load ~/Library/LaunchAgents/homebrew.mxcl.mongodb.plist'
-alias mongodb.stop='launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.mongodb.plist'
+# alias mongodb.start='launchctl load ~/Library/LaunchAgents/homebrew.mxcl.mongodb.plist'
+# alias mongodb.stop='launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.mongodb.plist'
 
 # alias redis.start='launchctl load ~/Library/LaunchAgents/homebrew.mxcl.redis.plist'
 # alias redis.stop='launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.redis.plist'
+
+
+# Brew services
+alias redis.start='brew services start redis'
+alias redis.stop='brew services stop redis'
+
+alias rabbitmq.start='brew services start rabbitmq'
+alias rabbitmq.stop='brew services stop rabbitmq'
+
+alias postgresql.start='brew services start postgresql'
+alias postgresql.stop='brew services stop postgresql'

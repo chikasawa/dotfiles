@@ -1,0 +1,8 @@
+---
+0.1.0 activerecord:< 4.1.0&>= 3.1.0|checksum:78f10666502d40be37895be9df545f62c4d7eae3a387b6b19fa20e9b7edb0f59
+0.2.0 activerecord:< 4.1.0&>= 3.1.0|checksum:b4ec1e9ef54b390b80b186825605eb85847653464549de6562aba708ee591169
+0.3.0 activerecord:>= 4.1.0|checksum:0342c5d3eaed098e1ba9c0c1763ef68a0f213c2de15a248ae3591889483551b7
+0.3.1 activerecord:>= 4.1.0|checksum:5fdd9d9e2e63cf1c48547ac6d283a35638dc2dc94d11ba88ba0d6b88097f0a93
+0.3.2 activerecord:>= 4.1.0|checksum:7c1a497ee3c856dda363c7c98d6e26dc8578a593b47d8333eb5ad6f634c382dd
+0.3.3 activerecord:>= 4.1.0|checksum:ca75cd0635f5d3bbc11eba199d06c57b3d8b504f37670ace80bd2d87790495cb
+0.3.4 activerecord:>= 4.1.0|checksum:916fa74ff929be6df42e969fe1de5a54be534f358b19e2183b15e289edf0a7b0

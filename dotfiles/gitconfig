@@ -42,7 +42,7 @@
 
 [core]
   editor = atom -w -n
-  excludesfile = /opt/boxen/config/git/gitignore
+	excludesfile = /Users/chikasawa/.dotfiles/dotfiles/gitignore
 
 [push]
   default = current
@@ -57,8 +57,11 @@
 [pull]
   rebase = true
 
-[credential]
-helper = /opt/boxen/bin/boxen-git-credential
-
 [hub]
 protocol = https
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true

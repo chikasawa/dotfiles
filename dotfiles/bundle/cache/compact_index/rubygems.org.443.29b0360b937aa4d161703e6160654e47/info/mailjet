@@ -1,0 +1,31 @@
+---
+0.0.1 activesupport:>= 3.0.9|checksum:c8b5790e6ea33a402cf3259adffa43eba4ba69978774741e0071d53b4f415bbc
+0.0.2 activesupport:>= 3.0.9|checksum:60c1beac1c1f5ea4113a377ca271e12fb4213bd6577c36b4d0e23ffe32b4cdc4
+0.0.3 activesupport:>= 3.1.0|checksum:00eb2387488915aa986841c45c49d7e9e0d623b0978f155c77d8a03bc45b6861
+0.0.4 activesupport:>= 3.1.0|checksum:0d840d15bcc1f0749204890dd45a0cd9c066125c4df6d1a5c776cd5b7165b576
+0.0.5 activesupport:>= 3.1.0,rack:>= 1.4.0|checksum:a12472cc63f9cef43d95a65b3ed211c38b9a2f6eead212a3d01e85078b7d8d7c
+1.0.0 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:2621d7d8a4bb3a06d0e112ffdd91a5c0e0cd213c735ccdb30cc69b8bf872c604
+1.0.1 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:02bc24000e0f7e2cbb141e1e7b53ff6f0681809b547602387bb17bebfae8f06d
+1.0.2 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:791274733263150d366dc9a71b24e59047999a3805594145823764a8113f972b
+1.0.3 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:98056436ca02f140a0184f722558f3aa67dc366b77e52c7100da8000716be87d
+1.1.0 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:3101eca42b03372a86433521678cc41492647db9a49934b40e049d1b7f7d09b7
+1.1.1 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:21e8bd99bb496f3434c3334af31da3f22e2ecf497c299ea25ac10a9e04a539c9
+1.2.0 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:83409e6619f65bd9e853acb2383251cbffd4e7212cc2080870d3f25b779ec601
+1.3.0 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:67362f5e352719d3906928915008716a82c9eb3550d51cec1c5dc4c40c74cd22
+1.3.1 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:e035b38e06a7b10ebda85978d1baeae3eb14135f2c24cb1ea61951ddd56115e5
+1.3.3 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:d5c0501faf11142c5758a5af541022f4c90a209180306142e887401cd5a127b4
+1.3.4 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:3984829971c3593bac0651792412ef8745166300cb21159b6becc61f9f04a760
+1.3.5 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:f82bf61161de91dcbd8a29a6dd2f4efce087d779493ff243d0e2a21e718abe4a
+1.3.6 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:619d02113a873391d8cc2b1cbde6712fc43418d106e8b23709a7288f4f5db5ee
+1.3.7 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:44f5d3c5f6c91298816c4111a06f631649dad08931efbb29fef094652097ef81
+1.3.8 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:5e2f70e0f4155f96b19d4f640025cdbbad730d73320f239e82bfea3bfa0826b9
+1.4.8 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:bb231c2fe853e17235f2eb79212b03e597e7b9f4220f6053e371b857bac9ddd1
+1.4.9 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:78eb7f99c71105962af5a0a54dfd87d6262a8997e1a49ce4e6ab8fcdc0ac28ad
+1.4.10 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:6328bf1d04bf46208ea29d4fbf7a6de5108f7fe9febc32e3770dc07df98f2e8f
+1.4.11 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:45224018d516b8eb07ac9b4bd23b205bd1c7ad736a07cc227a89514aaad918ef
+1.4.12 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:c8a1a61e72fca6925e9d706d65b893ca036bf04a0bcc7c254f470c4fee084ac3
+1.5.0 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:da8aca886916500326980f82a12e012f6b94d8811be0bac51c314a9e337e4068
+1.5.1 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:d3062b85f60d91e52a21192117f3d25feb30d79b4fb4dcb7f9421fd22e774fd3
+1.5.2 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:cf31cc2c948b273d0261fd243373d84e70d8d4159079874e6ab2bf6faeda227b
+1.5.3 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:5c7059618b3c4f719c2eece12c5104889d0cdc27761ced65352a78f7c9d8e5c1
+1.5.4 activesupport:>= 3.1.0,rack:>= 1.4.0,rest-client:>= 0|checksum:b6f32d101a30772930371cbe8c7db72976b7c9b8b0b9af7b7b68e3d06258f7f2

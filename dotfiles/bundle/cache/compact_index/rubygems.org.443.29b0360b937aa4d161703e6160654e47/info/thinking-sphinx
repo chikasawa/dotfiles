@@ -1,0 +1,73 @@
+---
+1.2.12 activerecord:>= 1.15.6|checksum:71b47590b833532dba91cb78579f9ecb2af60df543ea5ddff6c0bb4c2596329c
+1.2.13 activerecord:>= 1.15.6|checksum:a958132375b20b8200650e48675333738580a65c6c4f0c8ad8eec07f28039805
+1.3.0 activerecord:>= 1.15.6|checksum:547a5969ef4d92d0ce9c178b64cac99e1e5cb90b493f0fcffb558914918fb5a6
+1.3.1 activerecord:>= 1.15.6|checksum:27c2aa3406874f3e5d0dd5c6e9b165670ff24dc0c1673e902c5383f9f338484c
+1.3.2 activerecord:>= 1.15.6|checksum:dc1b8c2bd4aa32ef35741b50d596829612877d9d7845728c85f4873bb9dbbea3
+1.3.3 activerecord:>= 1.15.6,after_commit:>= 1.0.2,riddle:>= 1.0.0|checksum:601ad953c91dda06e5b53603fb7cc3c6f7efc5e3c4ab2a8529b03bfa453968d8
+1.3.4 activerecord:>= 1.15.6,after_commit:>= 1.0.2,riddle:>= 1.0.1|checksum:c27e3d53e838832855dcca881b932f96fe50546b1ed65937e4d85ec03de29295
+1.3.6 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.2|checksum:7df9efcb9a527570e7c28fc27e90172623cd0e742f974c9397efcafa84f834f2
+1.3.7 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.2|checksum:7dff0c2a506d2e7a2c91e043a304bab49cb9304d203d5e3468189897f71cf301
+1.3.8 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.6|checksum:4e3a420df8a6bd62bdc8a357324b832c898058033a3af0451e1734671715db6f
+1.3.9 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.6|checksum:bfd1a3f330db78d4f0f9b53f1ca74df980cebb8f3d4b9a561c4141e4b05af881
+1.3.10 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.8|checksum:d371c76e0f8bea2e114f4a9f631d6691908c13f47354746800c931f0afde434d
+1.3.11 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.8|checksum:1076b51bd7568c94d46f5f6cabbff2d355ff9030146c7996a10acbba8a5ee70f
+1.3.12 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.8|checksum:48f27d52b4b46f6fa9af6bad0eeb75e6b3be6881f0daf8db2633db9f63d15fd5
+1.3.13 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.8|checksum:bee781677417130d9da8859b3bf63136d7eac0595de12f509b96a37a3c9734be
+1.3.14 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.8|checksum:7ab2c4d0647f2600a27a73c0e24c02f44c1c62defd18abe36e6bd7371d4e0410
+1.3.15 activerecord:>= 1.15.6,after_commit:>= 1.0.5,riddle:>= 1.0.9|checksum:a5e8b73b6f232da15716eb407d7208253e326989bee8aeb381c9fb7dc058ded2
+1.3.16 activerecord:>= 1.15.6,after_commit:>= 1.0.6,riddle:>= 1.0.10|checksum:bb2b50d0257f7d91a309b200671e2449320c924f204c32f6097eb450cb1a7028
+1.3.17 activerecord:>= 1.15.6,after_commit:>= 1.0.6,riddle:>= 1.0.10|checksum:bbb5036d12a556b5af7f3059c0c47ba10b0429a2de76c3e8ab12a4faf2e27aa8
+1.3.18 activerecord:>= 1.15.6,after_commit:>= 1.0.6,riddle:>= 1.0.10|checksum:17cb88063f71e38e2dbc68330d6128486b338387bd6258d9b780f0d318678c94
+2.0.0.rc1 activerecord:>= 3.0.0.beta3,riddle:>= 1.0.10|checksum:b224454cdcf4915987ffbfa8997aa9e57cb990b9c5ff76efe91676ec0d895514,rubygems:> 1.3.1
+1.3.19 activerecord:>= 1.15.6,after_commit:>= 1.0.6,riddle:>= 1.0.10|checksum:27c2ab388720edac8546b723e413c7d454c62c305cd65af6ab9acf15b66181eb
+2.0.0.rc2 activerecord:>= 3.0.0.rc,riddle:>= 1.0.12|checksum:c4ec7ac114be3ee4edbbb735f0e2d38b42a65b0599d99c6448f82c063c1c83ba,rubygems:> 1.3.1
+1.3.20 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.6,riddle:>= 1.0.10|checksum:32389fa7f79708b2ad63b0667904c05dc7e1d93c942397307d429657bcb92624
+1.4.0 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.2.0|checksum:c177b26eb3903a0c3375bd510b5c086e9bc8c1d783e4cd7c7dea079f04d0912e
+2.0.0 activerecord:>= 3.0.0,riddle:>= 1.2.0|checksum:071abba5455c87761069458bc2d89c212a12618f066a557d337bea4ce13735f3
+2.0.1 activerecord:>= 3.0.3,riddle:>= 1.2.1|checksum:050c3ab70d23b1ef3437d828f035788b376c88825aed806e17a683816b0cd2a9
+1.4.1 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.2.0|checksum:b697bc4a09591e0d03f5c1e08ca86c1b22c86f368d885cfbc4504cf18505661a
+1.4.2 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.2.2|checksum:eb0c74c3170d22739ec4a22a22d421c5d4cd9d7bcba20d9cc00d11747ef6beda
+2.0.2 activerecord:>= 3.0.3,riddle:>= 1.2.2|checksum:b6c630938b307e466ef3cec7ebcd678b945247fc1782bfd0a71de7bf205da7b3
+1.4.3 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.2.2|checksum:fda48742641620141d2fe8ed977134a70b542b8eaf7b483692b478d415bfa151
+1.4.4 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.2.2|checksum:51c7d14273db2a727ccb0e4f2d76ad616595612815e8a2657f1def0d32bf16a8
+2.0.3 activerecord:>= 3.0.3,riddle:>= 1.2.2|checksum:f0215a008a7c3e87dc66cb7911cd2dee2675709375177dabcb87c16fb4e18326
+1.4.5 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.3.2|checksum:2e2027da010dadfbdf34c7fd74494b75006aacd53bf4e6d62915422f2b2238d2
+2.0.4 activerecord:>= 3.0.3,riddle:>= 1.3.2|checksum:cc034c16b210b9e5af15c5a96a6c86f8d4eaac757b3bfa9168bd5c33d6e60ccb
+1.4.6 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.3.3|checksum:6ab26a23ed6381f6189143f7c305f78e61b344d0ffdc0fcd09c58d95d2b8b0af
+2.0.5 activerecord:>= 3.0.3,riddle:>= 1.3.3|checksum:e2707334b68b0a32fda76990d5cccaeebdf7f2a772264d2acd2e6b3ae98836f7
+1.4.7 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.3.3|checksum:33e63c7798f1744c3ecc238c86363058ed73e54a0a925b1c8f3f80ee516157d1
+2.0.6 activerecord:>= 3.0.3,riddle:>= 1.3.3|checksum:76bc660a397e70e2344076e95683d52a55b560a742143a8f357e9f67de9c94ce
+2.0.7 activerecord:>= 3.0.3,riddle:>= 1.3.3|checksum:52867c8dc5a23c05d625c0230ab13611b7ad267fc333df33f96fb8c22cb86073
+1.4.8 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,builder:>= 2.1.2,riddle:>= 1.3.3|checksum:4b96af4523090564b1a6f33faacb5e6002c9121833f582010f13a1b772be9ed9
+2.0.8 activerecord:>= 3.0.3,builder:>= 2.1.2,riddle:>= 1.3.3|checksum:9d6f0bd027cf772cc97b09a4f8d3df0e2ed822689e21865eb44ec0de89480f8a
+1.4.9 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,builder:>= 2.1.2,riddle:>= 1.3.3|checksum:143b8eb03248277ab63d072a598e9b5eb5201b127a25e67d8a12f4b64bedbc2e
+2.0.9 activerecord:>= 3.0.3,builder:>= 2.1.2,riddle:>= 1.3.3|checksum:d198745defd103467d995dd8d9376d0ee18b5b091be0ab61045fccc9e22ebdbd
+1.4.10 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,builder:>= 2.1.2,riddle:>= 1.5.0|checksum:98a01313bfbbb29afadb0c478e36dc1950ee05837363c0ccee5e1b942b03f598
+2.0.10 activerecord:>= 3.0.3,builder:>= 2.1.2,riddle:>= 1.5.0|checksum:d2ddba29b65e8a1923debe9edf07b926cdd637fe74796887fb9a33cbe0c8de1e
+1.4.11 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.5.0|checksum:bb35bdf49b03c4164cc594d7dcf59f765944a8e62143780b9091b5a7e5006f30
+2.0.11 activerecord:>= 3.0.3,builder:>= 2.1.2,riddle:>= 1.5.0|checksum:01e678d8f2016f3fd560c1c3ecc81858b386ca686fca94da307fd3b2e66ac24e
+1.4.12 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.5.2|checksum:523bb81556ca6fc49e7e184cf774f5943cdef341a6b98ae4c313693bcc99e8b7
+2.0.12 activerecord:>= 3.0.3,builder:>= 2.1.2,riddle:>= 1.5.2|checksum:4b24bdbf36e77596762643cea8ae722610f2fa884b9763d6ed878cf67d683306
+1.4.13 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.5.3|checksum:1427ffae88c7686c858ce40cde93d417ab776d7fa0327f07661dbc30c18307b7
+2.0.13 activerecord:>= 3.0.3,builder:>= 2.1.2,riddle:>= 1.5.3|checksum:dbb0c368469fe85e78c9408c709c65c6523e38c293754589970cd64fc23cf886
+3.0.0.pre activerecord:>= 3.1.0,builder:>= 2.1.2,middleware:>= 0.1.0,mysql2:~> 0.3.12b4,riddle:>= 1.5.3|checksum:e2583604ea7e0e28ed11b0476e961e0d8bc2039bff30a943cee1717795ca98d4,rubygems:> 1.3.1
+3.0.0.rc activerecord:>= 3.1.0,builder:>= 2.1.2,middleware:>= 0.1.0,riddle:>= 1.5.3|checksum:43f8f7c3604302ee1e38e4c0328684d16f41029ced6befadc7198dec09ad294e,rubygems:> 1.3.1
+1.4.14 activerecord:< 3.0.0&>= 1.15.6,after_commit:>= 1.0.7,riddle:>= 1.5.3|checksum:5d3e351df8424c287006e541b179ddc0c73c36f6bb9ca45620d88c354f724911
+2.0.14 activerecord:>= 3.0.3,builder:>= 2.1.2,riddle:>= 1.5.3|checksum:0109c4e081e5cde60c148875585358d21c1144c1d4a1fc05f39450273e27f94f
+3.0.0 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,middleware:>= 0.1.0,riddle:>= 1.5.4|checksum:42009bbba9588fd9509c76938862ebdf919d75a6e79ad03e4b9616e2f59239d4
+3.0.1 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,middleware:>= 0.1.0,riddle:>= 1.5.4|checksum:adcd70b3781204e2eafae123e6c9da965e233c37be284d601301616b7a6eb263
+3.0.2 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,middleware:>= 0.1.0,riddle:>= 1.5.4|checksum:276904ac9d16e9ae4b887ddd3966e0bb55d26aaed5f586f50e2e718bbb41266e
+1.5.0 activerecord:~> 2.1,after_commit:>= 1.0.7,innertube:~> 1.0.2,riddle:>= 1.5.6|checksum:140ff08340ad67fc30956e020f7ea952e8d2395e1785131409bc08d6f69f5126
+2.1.0 activerecord:>= 3.0.3,builder:>= 2.1.2,innertube:~> 1.0.2,riddle:>= 1.5.6|checksum:a000731db76898f4dd8e6caa0314254b9b77e2933b6209c19ff901c6a418df93
+3.0.3 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,middleware:>= 0.1.0,riddle:>= 1.5.6|checksum:3e4ce07694fa561d4300850874f66b9c16a36f3d023cebb6ded7ecde54d4e6e0
+3.0.4 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,middleware:>= 0.1.0,riddle:>= 1.5.7|checksum:3c7c95f037d33d7b3572785fb204715b3fb1f87c0eb935502a4783a723d501e3
+3.0.5 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,middleware:>= 0.1.0,riddle:>= 1.5.8|checksum:8f94ba3b49cb70ab072435db1a5f27245659d009b032c24c26609be25826b2fc
+3.0.6 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,middleware:>= 0.1.0,riddle:>= 1.5.9|checksum:1b3ebead66c711802c91c8c70195207ae13e896344e3ae1c850f4df37c846224
+3.1.0 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,joiner:>= 0.2.0,middleware:>= 0.1.0,riddle:>= 1.5.10|checksum:929d9f126a5e02ce41ee470fc9d265c50b542555ec9813173fc8f430f89e9edf
+3.1.1 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,joiner:>= 0.2.0,middleware:>= 0.1.0,riddle:>= 1.5.11|checksum:d8cc7bac782078158b6944bd2ad9a27b3354090ad68e2c470591a2cda7bc61bc
+3.1.2 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,joiner:>= 0.2.0,middleware:>= 0.1.0,riddle:>= 1.5.11|checksum:8617e6f01067cf16ceadcb7cfaafa87ed089ead6614a0ad80d4281958a528e67
+3.1.3 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,joiner:>= 0.2.0,middleware:>= 0.1.0,riddle:>= 1.5.11|checksum:45865a7965da4276aef614326111b5eb11cb59f59d6d0d0d6c5da732d8c177f1
+3.1.4 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,joiner:>= 0.2.0,middleware:>= 0.1.0,riddle:>= 1.5.11|checksum:c7e699d7300ebb6089c0a03c7727df5579e7d5ec5219a5596c300c6675e3fc4f
+3.2.0 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,joiner:>= 0.2.0,middleware:>= 0.1.0,riddle:>= 1.5.11|checksum:9eed1e290bcbd7debe48239fccad3cb567adcfb9e8d5987c615135b17f24c462
+3.3.0 activerecord:>= 3.1.0,builder:>= 2.1.2,innertube:>= 1.0.2,joiner:>= 0.2.0,middleware:>= 0.1.0,riddle:>= 2.0.0|checksum:89352b3b1fe59760058ea6f70d52d3a526e615b2330d8aad5ebe1c3887dacf2e

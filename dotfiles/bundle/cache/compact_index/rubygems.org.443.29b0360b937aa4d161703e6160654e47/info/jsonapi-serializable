@@ -1,0 +1,10 @@
+---
+0.1.1.beta1 jsonapi-renderer:~> 0.1|checksum:3e70da0838e6fccd82e1747f6aded53ae6f2b76fdf061981ae77a056c1826cf5,rubygems:> 1.3.1
+0.1.1.beta2 |checksum:4b7c3e4dd84fb50b321d084d0aac5c98b92a5ac447ee16972eebbbe7975d4fad,rubygems:> 1.3.1
+0.1.1.beta3 jsonapi-renderer:= 0.1.1.beta3|checksum:ffe7f2b2b5281c019be2a1ecadb12e07438005fd2f72c5d6726fb8f657e2f7d7,rubygems:> 1.3.1
+0.1.1.beta4 jsonapi-renderer:= 0.1.1.beta3|checksum:5910f56b2a867b4f7ffb5e70268b7a52afb3d9c2ac54b70915e9ed5ca07d1950,rubygems:> 1.3.1
+0.1.1 jsonapi-renderer:= 0.1.1|checksum:e3720030dfe9a05bebf4dd61859b01026c5a3d506af0a93c2eb84537cabe1123
+0.1.2 jsonapi-renderer:~> 0.1|checksum:9565e72a999a431494ff2f33660bc2693862b8d3405db59fb650cc41f8aab6ca
+0.1.3 jsonapi-renderer:~> 0.1|checksum:73b22555ef7cfb80d38aaef7ee2fdd97eaff382a89d17f948c163df7702ff073
+0.2.1 jsonapi-renderer:>= 0.1.3&~> 0.1|checksum:288fd35e3f51aa90719e0e8567f84f2d8ec14e8805fccc0e4212d33582af83ff
+0.3.0 jsonapi-renderer:~> 0.2.0|checksum:e7f86a3d54215bbba4c71fbb251f7b8075d692566ff123b08397fb2ef897399c

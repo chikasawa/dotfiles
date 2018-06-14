@@ -1,0 +1,14 @@
+---
+0.4.0 anycable:~> 0.4.0,rails:~> 5|checksum:ccb12c4cde7266e59608820584095d4d35c69eddd7fc5146873ac8b50733a74e
+0.4.1 anycable:~> 0.4.0,rails:~> 5|checksum:a6e9f04f1d8708e2106d86938cdb69428cba24d73e9a3373def813bd0da8a565
+0.4.2 anycable:~> 0.4.1,rails:~> 5|checksum:e737e56560ea2f5b15880c9ac9efd78263c58377e9153e8fa7d70fe1d5371995
+0.4.3 anycable:~> 0.4.2,rails:~> 5|checksum:86c95251c88cb161481287032d3be1671cdf334c672238d754fbfd851853fd8f
+0.4.4 anycable:~> 0.4.4,rails:~> 5|checksum:29b2925aab593bdd16eb2643aa4f4bec620c0d4dccbc27b8d55bf240d22a9f2b
+0.4.5 anycable:~> 0.4.4,rails:~> 5|checksum:c430819967e1ca67b5ab23300d77bf24bd96ab2fd890b9d6d1aa1358e49303eb
+0.4.6 anycable:~> 0.4.4,rails:~> 5|checksum:d2fdfd24d881d563f6ee7b4e35e80d89c3d38252222520ca2ac07df31b9708d9
+0.4.7 anycable:~> 0.4.4,rails:~> 5|checksum:1b639027c25f44ed78ef07cd2702182329f141780f34344d47f8d8c334f04131
+0.5.0.rc1 anycable:= 0.5.0.rc1,rails:~> 5|checksum:a436babc5192e168c6ea2d54d73cb908358accc760d2d5394b6005d6a2beb5cb,rubygems:> 1.3.1
+0.5.0.rc2 anycable:= 0.5.0.rc1,rails:~> 5|checksum:3f750b55f37ce3b4a80ab2e4f7ad87f45be669c6e3f279f6fd0658d114be0c31,rubygems:> 1.3.1
+0.5.0 anycable:~> 0.5.0,rails:~> 5|checksum:c869b5b65b4d3721ea8eebecbf481326108aea67628a16168e0793bc49f2bfc6
+0.5.1 anycable:~> 0.5.0,rails:~> 5|checksum:7abcd991c606e5c4542731e30622581e4e51fa02aa7bfb58d94fd779d6c3b5da
+0.5.2 anycable:~> 0.5.0,rails:~> 5|checksum:0308dd6e5d3c45989ed4300ca0c5d2935e5d854b0197afcd4f6b00966455cfe3

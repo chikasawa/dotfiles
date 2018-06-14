@@ -1,0 +1,8 @@
+---
+0.0.1 haml:>= 0,launchy:>= 0,mongoid:>= 0,rack:>= 1.0.0,sass:>= 0,sinatra:~> 1.2.6|checksum:b087b63f5ab76d44fe3f8836b91a0381f3276f520d883959ee4f3f08ae0631b9
+0.0.2 haml:>= 0,launchy:>= 0,mongoid:>= 0,rack:>= 1.0.0,sass:>= 0,sinatra:~> 1.2.6|checksum:06c10c9e5f602e6ebcff71053ba8ce3f3de3c4f9654b38df3b4c750c7bfd9a48
+0.0.4 haml:>= 0,launchy:>= 0,mongoid:>= 0,rack:>= 1.0.0,sass:>= 0,sinatra:~> 1.2.6|checksum:6c31cec1e551f93a69ebc22899b4b20746f94347c3ce0d2717274a9d54d2796e
+0.0.5 haml:>= 0,launchy:>= 0,mongoid:>= 0,rack:>= 1.0.0,sass:>= 0,sinatra:~> 1.2.6|checksum:c81bc8e9d0113bcd0fc54ab8647b098fd27f3855cb62c67956311bce329bb535
+0.0.6 haml:>= 0,launchy:>= 0,mongoid:>= 0,rack:>= 1.0.0,sass:>= 0,sinatra:~> 1.2.6|checksum:3c0a666a3f1786af09030e5ec2c5312ee2b5b41153a376d739e43eeb43840b60
+0.1.0 haml:>= 0,launchy:>= 0,mongoid:>= 0,rack:>= 1.0.0,sass:>= 0,sinatra:~> 1.2.6|checksum:55e360b58cb01cf1ea19b5ae19731dbddd55064c4c75216f93e529d4880f6500
+0.1.1 haml:>= 0,launchy:>= 0,mongoid:>= 0,rack:>= 1.0.0,sass:>= 0,sinatra:~> 1.2.6|checksum:7efe79769c9106808383a10946424f822c05998a67032c8b1f0ae53ca78d412b

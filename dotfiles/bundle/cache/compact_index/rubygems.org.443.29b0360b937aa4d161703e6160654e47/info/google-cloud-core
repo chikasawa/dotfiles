@@ -1,0 +1,5 @@
+---
+0.20.1 |checksum:c5ebbc4f8d428d9ec9203786e7e750edc99e7d3188990773e10d4d931cc09c7f,ruby:>= 2.0.0
+0.21.0 |checksum:606733f9c9dfb006c65554998a3362f426d488dc7bc5600e1e78ff92e6a64fec,ruby:>= 2.0.0
+0.21.1 googleauth:~> 0.5.1|checksum:8ebf0588444e1442d99cae9ce5b61e2520f35860dab069ca76ee28d16f3ce5fe,ruby:>= 2.0.0
+1.0.0 googleauth:~> 0.5.1,google-cloud-env:~> 1.0|checksum:5a7dda4210a9deca9954fd09fa265a5fd9604472fb8dded5df5551da01027fa7,ruby:>= 2.0.0

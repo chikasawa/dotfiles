@@ -1,0 +1,12 @@
+---
+0.20.0 googleapis-common-protos:~> 1.2,google-cloud-core:~> 0.20.0,google-protobuf:~> 3.0,grpc:~> 1.0|checksum:7d53cab3d4a12343fbe1ae7e2e86590476060529f804dfe31b9d3bbbe1631cd6,ruby:>= 2.0.0
+0.20.1 googleapis-common-protos:~> 1.2,google-cloud-core:~> 0.20.0,google-gax:~> 0.4.4,google-protobuf:~> 3.0,grpc:~> 1.0|checksum:310f56d053570c02c5e659b1fc5f3abd28ca9f101a77a1f8e96e71fb2e0070dc,ruby:>= 2.0.0
+0.21.0 googleapis-common-protos:~> 1.3,google-cloud-core:~> 0.21.0,google-gax:~> 0.6.0,google-protobuf:~> 3.0,grpc:~> 1.0,grpc-google-iam-v1:~> 0.6.8|checksum:fa2acf2fc3418e82c6ba313b9581b9df2eba32f3d1087841248f4a3a29ca60ad,ruby:>= 2.0.0
+0.22.0 googleapis-common-protos:~> 1.3,google-cloud-core:~> 0.21.0,google-gax:~> 0.6.0,google-protobuf:~> 3.0,grpc:~> 1.0,grpc-google-iam-v1:~> 0.6.8|checksum:7081f9ac2e0379c9424e4addb1bbd7fcce0de083d0c381255913bc930a619f02,ruby:>= 2.0.0
+0.23.0 google-cloud-core:~> 0.21.0,google-gax:~> 0.8.0,grpc-google-iam-v1:~> 0.6.8|checksum:624b610275d3883430d8e3f9dc5e1e452d66d4b73d263377ef65245946dcc290,ruby:>= 2.0.0
+0.23.1 google-cloud-core:~> 0.21.0,google-gax:~> 0.8.0,grpc-google-iam-v1:~> 0.6.8|checksum:e5253be4e4c5effc79929859e7c24cb9b14b6efa62adc896dd47f67d89cce860,ruby:>= 2.0.0
+0.23.2 google-cloud-core:~> 0.21.0,google-gax:~> 0.8.0,grpc-google-iam-v1:~> 0.6.8|checksum:73116af2ecb393a5387e1cde925daf08dfbd1f246e00ef4125cf8db146b4e988,ruby:>= 2.0.0
+0.24.0 google-cloud-core:~> 1.0,google-gax:~> 0.8.0,grpc-google-iam-v1:~> 0.6.8|checksum:a818f8ac7d0749bf62ff0876900a809d26855a736fb1e173c978c6ece1b450f3,ruby:>= 2.0.0
+0.25.0 google-cloud-core:~> 1.0,google-gax:~> 0.8.0,grpc-google-iam-v1:~> 0.6.8|checksum:4fd693112d31ae97ab398f0aecdd6a6f795c93e5af246432c20cb553e01b8881,ruby:>= 2.0.0
+0.26.0 google-cloud-core:~> 1.0,google-gax:~> 0.8.0,grpc-google-iam-v1:~> 0.6.8|checksum:e0e739439f9e9d9c6fcd25c0db264682d5bbae85123ab7b230593bedd0bc8574,ruby:>= 2.0.0
+0.27.0 concurrent-ruby:~> 1.0,google-cloud-core:~> 1.0,google-gax:~> 0.8.0,grpc:~> 1.1,grpc-google-iam-v1:~> 0.6.8|checksum:4eefe5d7832c4f7edb8851e33b544b75c13c4b67346dd032e5bc3e844949c394,ruby:>= 2.0.0

@@ -1,0 +1,24 @@
+---
+0.1.1 googleauth:~> 0.5.1,grpc:~> 0.13.1,rly:~> 0.2.3|checksum:4696c2a43712a3a34b3b449b3b379bca68bd1715918f84a7fe5684191a09f11e
+0.1.2 googleauth:~> 0.5.1,grpc:~> 0.13.1,rly:~> 0.2.3|checksum:6e0538ce28046da64b731e8d64f2f516de1d315362213b471886d2a5e1d020d5
+0.1.3 googleauth:~> 0.5.1,grpc:~> 0.13.1,rly:~> 0.2.3|checksum:acde606b38928e6ba44c4663b3d34780fa63e5e891e9bc00b4206e1549348c70
+0.3.0 googleauth:~> 0.5.1,grpc:~> 0.13.1,rly:~> 0.2.3|checksum:d76fea80ad4df3364de6748e41ed862e4ded478dc3e29cc3f200fb8f0e1f0108,ruby:>= 2.0.0
+0.4.0 googleauth:~> 0.5.1,grpc:~> 0.14.1,rly:~> 0.2.3|checksum:75720f0966605a5c251adb5587239b59264cac6fcd51f8e56720d72cf60e3662,ruby:>= 2.0.0
+0.4.2 googleauth:~> 0.5.1,grpc:~> 0.15.0,rly:~> 0.2.3|checksum:6d1268012c2ed414e73aa15a76a746421ebafb8dd3c1a9951bc4fa3e3f6d1cea,ruby:>= 2.0.0
+0.4.3 googleauth:~> 0.5.1,grpc:= 1.0.0.pre1,rly:~> 0.2.3|checksum:d0be927cfad9eaa4f1dcc4c207e8101e7fdcee55ebcdae0feddcee34b895254b,ruby:>= 2.0.0
+0.4.4 googleauth:~> 0.5.1,grpc:~> 1.0,rly:~> 0.2.3|checksum:45727a1b0ebc3eb13fce38e79c1ff38f899a30fd4ffa1d31083baac87d4e6c5a,ruby:>= 2.0.0
+0.5.0 googleauth:~> 0.5.1,grpc:~> 1.0,rly:~> 0.2.3|checksum:50a30a34a5764f057e70fbcb20c874e0550b4b82983b777a15262c7ad6a68ffa,ruby:>= 2.0.0
+0.5.1 googleauth:~> 0.5.1,grpc:~> 1.0,rly:~> 0.2.3|checksum:3a750bcd49ef19176eca6a86ef077baf336c05230457df46b0e732818341b64a,ruby:>= 2.0.0
+0.6.0 googleapis-common-protos:~> 1.3.1,googleauth:~> 0.5.1,grpc:~> 1.0,rly:~> 0.2.3|checksum:6fccb06c2178b131fd2ecf0a6a1d326ba713501ae6e2d0bd27b5312a1c616713,ruby:>= 2.0.0
+0.7.0 googleapis-common-protos:~> 1.3.1,googleauth:~> 0.5.1,google-protobuf:~> 3.0.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:a06d54d9ad98b816abc83d61f03382e081c4ca58a22097767826c51e03d7eb2f,ruby:>= 2.0.0
+0.7.1 googleapis-common-protos:~> 1.3.1,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:408b147bd2f9edee4aad4b37fe9995e2e0c5bae52d0c8aceb698193a31278516,ruby:>= 2.0.0
+0.8.0 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:a0509ea0894b577a7206b43b66b824c9a1223f7eed48f9f52cc7366c18fe267d,ruby:>= 2.0.0
+0.8.1 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:0265f317941bd3fc9a3ae542ca7a840bb003934f497478092f7de59473f87916,ruby:>= 2.0.0
+0.8.2 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:e3bbb45efc5ae82d4693b2ba71abea9b6c9f70f0afe50cc4fff073a247207a58,ruby:>= 2.0.0
+0.8.3 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:5dbd5b39a1b87fa447a365ea5a0457b9ed76fcd77d949dec95efc2aa9f0a3906,ruby:>= 2.0.0
+0.8.4 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:15711dfb8f1b11bdcf578122dfba13e1926720d734abeef4ef346267450fd98e,ruby:>= 2.0.0
+0.8.5 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:d7467b88ad9cf63777ba3eaf5c606977a9486158d07ba42b1a468b80084024f4,ruby:>= 2.0.0
+0.8.6 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:cb5c49def9ce1849a561c34665389195195dbbb69b55c7a8a593dfb2d61f1d54,ruby:>= 2.0.0
+0.8.7 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:0d80043297799ecae6d2dac3c7749b89276fca68d55ab9e6f210aa7f4d490713,ruby:>= 2.0.0
+0.8.9 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:46d0f6a60007cd92f7054f9af53e4bc691ae8e05c7ff1abdb4fa7ce7dcf79a44,ruby:>= 2.0.0
+0.8.10 googleapis-common-protos:~> 1.3.5,googleauth:~> 0.5.1,google-protobuf:~> 3.2,grpc:~> 1.0,rly:~> 0.2.3|checksum:8d1e3b6ca6ffd163ce43a00cbca0352cf9e95e4bf4f84c6d8a4ff8e9a8496bf7,ruby:>= 2.0.0

@@ -1,0 +1,4 @@
+---
+0.2.0 diffy:>= 0,grit:>= 0|checksum:7ac6ef6009996beff6319617f6321b731d2edae9c1678cfbb7d6719cf5150f2f
+0.2.2 diffy:>= 0,grit:>= 0,pry:>= 0.9.2|checksum:47a5d89b1a6ff6436320392030b527b202b548154f708af7275510d8d2d2f17b
+0.2.3 diffy:>= 0,grit:>= 0,pry:>= 0.9.8|checksum:d6b53aa441d81fb8c39296db0c227ce48812472d5e74e2af11f58e2f69f322b0

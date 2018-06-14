@@ -1,0 +1,266 @@
+---
+0.5.0 faraday:~> 0.9,googleauth:~> 0.1,google-protobuf:~> 3.0.0alpha.1.1,jwt:~> 1.2.1,logging:~> 1.8,minitest:~> 5.4,multi_json:= 1.10.1,signet:~> 0.6.0,xray:~> 1.1|checksum:36a52fbf379403d17a93d6004b7141c0acb2015041b8b5dccd0f2c5ff037bd78
+0.6.0 googleauth:~> 0.1,google-protobuf:~> 3.0.0alpha.1.1,logging:~> 1.8,minitest:~> 5.4,xray:~> 1.1|checksum:b69ce03f7871a788eb293de800c6c081b08e7002b509b0ff9ea7f4393e8eab60
+0.6.1 googleauth:~> 0.4,google-protobuf:~> 3.0.0alpha.1.1,logging:~> 2.0,minitest:~> 5.4|checksum:df277039cfb2050525aff59095e2110382aa89748c94416caa6aa349730790d1,ruby:>= 2.0.0
+0.9.2 googleauth:~> 0.4,google-protobuf:~> 3.0.0alpha.1.1,logging:~> 2.0,minitest:~> 5.4|checksum:65c66ffb75d5622b01f72693fb4c728cd1c98e55ccd3f6e598663c1172bdafcb,ruby:>= 2.0.0
+0.9.3 googleauth:~> 0.4,google-protobuf:~> 3.0.0alpha.1.1,logging:~> 2.0,minitest:~> 5.4|checksum:cb83ccfc1c96f5f28dab1334c873d3411c37bc3a4da64887ee26b208b350ea91,ruby:>= 2.0.0
+0.9.4 googleauth:~> 0.4,google-protobuf:~> 3.0.0alpha.1.1,logging:~> 2.0,minitest:~> 5.4|checksum:618de9dc1acdff83dbb2ab224249b992778dbf11caa9678aa202a0cffbcd9e2b,ruby:>= 2.0.0
+0.10.0 googleauth:~> 0.4,google-protobuf:~> 3.0.0alpha.1.1,logging:~> 2.0,minitest:~> 5.4|checksum:06518169efb34ccf7602ae68a3d48f6874180140b8717f3a70958fc2cadb98de,ruby:>= 2.0.0
+0.11.0 googleauth:~> 0.4,google-protobuf:~> 3.0.0alpha.1.1|checksum:4c9ceac0e394cb96bd5286ec520280737f5e94b63ff6a526ae3a6d04f400aa3a,ruby:>= 2.0.0
+0.12.0 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0alpha.1.1|checksum:b7ec715a95be94bf24c7a7cbd998ec494cbf2568dbb1fc62d01c7604ce4484bd,ruby:>= 2.0.0
+0.13.0.pre1.1 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:c2b4e44205f12fcf275345d3c9c6946dae71466657258276c5a31ca3de4cc124,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.0.pre1.1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:4e1e535fa13cfc4911184aa4dbc239901790efcecdd2d59edee1bbe6778383b7,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.0.pre1.1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:518e6bc8bf1ad33bce5c5125ca27768352ef5a4e06f4d748002148935257fbeb,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.0.pre1.1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:1e6667533c50bfa8b8cf4ea9aa43f6461ebd7b584dc2e3fd0bfc3e7482aa807a,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.0.pre1.1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:5878da971e33b27e97fc91a2d2bf9d4bf3109750a506b4b4ab839f6a8a9da040,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.0.pre1.1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:116ca8256f4b29d99e593c8fb8cc3eae35645a8e6197132b4f80c53e5fc2672b,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.0 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:bc93bb5c15b354b9dda5c8b4b294c354ee73378243ba17c8aa3ca7a723a22519,ruby:>= 2.0.0
+0.13.0-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:7a92f9e8adbcd9c39ddf59f5205b1bab33a114fae54e05b3ded890d79c24a93a,ruby:>= 2.0.0
+0.13.0-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:d46adb9cae42c3e309ed63b0d586456a9c01adc96cd3ca7d57673c5caecc35cb,ruby:>= 2.0.0
+0.13.0-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:f4234ca7c8a5335665533768ed43ec1e7c017b4c5ff751c3c7652502162ab5bb,ruby:>= 2.0.0
+0.13.0-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:4f33fa464504fe432b7a4d1f7d81bafbbfa21bf72abd45af24137cebdc0052da,ruby:>= 2.0.0
+0.13.0-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.2|checksum:b1b22073f5716b3766f1c46f942c2a9fe0bbb6017bdb0c81fd03c628489e013e,ruby:>= 2.0.0
+0.13.1.pre1 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:cc903de20f473cd8f5960d497fd7c387807e7b6c125894519ffa806dccf64e17,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.1.pre1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:0609e22f5d1f419eaf7cdebdef0333a54eb4a55b004fcb754e204a5794f6854b,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.1.pre1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:15a92498c5d09e658b104b41e8760b77722f462d88a50a8d336770ebe96da019,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.1.pre1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:af1131e1f15716789495d2387e931b2a0556b754c6e002e6ab8772253c4576a1,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.1.pre1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:4ff7fe579e016425e963936ecfe09b89c86239b8cce24d0d8c192113c5720a0a,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.1.pre1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:37fd7618afcb7aca60a1996b1a7456ca6211d5fecfa730cb34f6c5a7edf4cfe1,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.13.1 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:4b98b602b83184af415dbd27d3c26408fb4edbc9ee3cd46bbd1e6751c1cae483,ruby:>= 2.0.0
+0.13.1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:2ad64b676e423504636ad34087da4cfcf3b41a5f2ed47ff22f925bad7a8dd5e7,ruby:>= 2.0.0
+0.13.1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:f191a769964a610afd3f7dda8b7638be193988fbefb281c92352e31788328f75,ruby:>= 2.0.0
+0.13.1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:1d3d5486aa74d29dd068e051eb44ada4140501b6e7b831deb60debd3c3d68b11,ruby:>= 2.0.0
+0.13.1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:14b3ddfdd015bbee0dda977c891e6de86a95a85e32c512abc2a88ec2f86305d5,ruby:>= 2.0.0
+0.13.1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:9acd8b508a4e3e18819b56f8123bfd0162c900717d24409ef31b67b2fa651667,ruby:>= 2.0.0
+0.14.1.pre1 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:84714bab07219bdc17f940144a7c351aebfd7f3fa941fb13665ed4c7569a20e5,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.14.1.pre1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:c47befb5d112eb1c59afbfcae9a2638a14f2f7cb54d345c85ef030fab423a4bd,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.14.1.pre1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:808021930823d68927a89d5b68317b01e59fdbf376f1d80cfa0d57a60139252c,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.14.1.pre1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:6a9b5c037dabf85dbc5ec1f7ca2a4f35764d166d3c6ed9d774af5402250900b3,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.14.1.pre1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:f688c6eae9671130a12a214b78e8d93a3f068758785073318db4e1be4ec2b53f,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.14.1.pre1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:d8b3d46c0320994e82e95ea7273032d224d344edd5980df3ea1a6d69e109c983,ruby:>= 2.0.0,rubygems:> 1.3.1
+0.14.1 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:4678c74835a95b4a8e35b01833fe2fe91bfc9e555caf9546394ff01dbdf96e07,ruby:>= 2.0.0
+0.14.1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:f372da6eb0b0ff1174d41bd4e66464f3ed6e78511d913930793cd37233196e44,ruby:>= 2.0.0
+0.14.1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:74d1b8f275e53ac893c3ff0ff4fb65e99bfac99c2c521bd269c8d255a487844e,ruby:>= 2.0.0
+0.14.1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:84c250a11cbf017745a50f0c89b192f4c332be9733e812cf9b8b175a3b94de57,ruby:>= 2.0.0
+0.14.1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:5360ed94a224b73aa66625f786de40ff3bafc1c4c20fac2e7c75f23b27d97e47,ruby:>= 2.0.0
+0.14.1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:30a391761d5863490e03d6fdbbf9a037bdb2faa56b347e3fcbb04b8936d76c74,ruby:>= 2.0.0
+0.15.0 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:47b95355768ae2ef46b03771c654c6abddfb9b3c6d411387ede768a3c120d466,ruby:>= 2.0.0
+0.15.0-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:0f71a3ac12af7be225d58d1ce71635c0feae144e44c964235b2f1b9bbe358b84,ruby:>= 2.0.0
+0.15.0-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:e2263813032cf83d8696b899ce15430c0724c4d672ea2bf6ce7cbca79486ffa8,ruby:>= 2.0.0
+0.15.0-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:5f24956ee2860a12faa08c90d7e552adb1e054d3e4b926e9012d9f70b4455a5c,ruby:>= 2.0.0
+0.15.0-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:fc9ffdf6aee1e771d595d2b74de7154ff68b85c5c75e8f9751377e0b51591f11,ruby:>= 2.0.0
+0.15.0-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:b58eada0f01d555e4272460d4b05018b00189cbb6db01c832d46d9d687499203,ruby:>= 2.0.0
+1.0.0.pre1 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:4d0ad4c316532cd77acabac66a744437cf85b5799aad57b7455625eeecf928a5,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:7443b8fcf395cef1518c414c7cd7c9d7c1df8e49dcc962def9156cf079944585,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:941c9314a12598d5785f29f4138f7e271be6a3e4492c658d7f4def66e4126c5b,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:ecea650e259078090f87271fd80de073b7dd512eb0f9dcd5b36e3c9fc1c11d27,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:fbadeebacdf7f15b3c936186077a1f51fecfc227af650c58141b0e2947505b81,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.0.alpha.5.0.3|checksum:730ec22c5bc844da2ae84bb1e572a6763834cb4c0c12caca516ba1911d28cb83,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre2 googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:2b42be4a038163c0a1b978988e3870ea3ea29a0b63c9b7fc0788706f0988172d,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre2-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:5a981f2bc953dd13f7631a0a4bfda533e8c50e46a85e1e885fdf809d20179061,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre2-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:0128786c52075d316064dcd023c0bb7882e5a6a386bd95a19fa3880887389c51,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre2-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:c3afc8c41c0fcbb79b5ccf0cc498380d38c4a725267db220d40c3425ed510b5b,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre2-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:11f405d4b65919bc968572d11a930ba6e45de8601df5a137a1dea77beb4ae760,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0.pre2-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:fce0d8bf04e63863778408674cd680ee51c02a2ed6f9df61c5a5e63fe42a632a,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.0 googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:c4f908bdd1629bb56fa516bb5ed442187758853f285f31a805b2b940584c6835,ruby:>= 2.0.0
+1.0.0-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:674d4a753ce334039933a1f2138846fb8ba396b1a5b4d7954fa0a5a78705f4eb,ruby:>= 2.0.0
+1.0.0-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:fe45b27dbbf408656e6aecf1b02e7dda3a7ed5ef891eff8c4d91b99146661a99,ruby:>= 2.0.0
+1.0.0-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:e806644c5d7831e0639e2079e776b172bcdbca2975f128d85b183e31928d6578,ruby:>= 2.0.0
+1.0.0-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:08f7f039c68f6fe35d74d6525e67c2f235f3f679587ecfe321a128076d30e4df,ruby:>= 2.0.0
+1.0.0-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0|checksum:9a09655933fd8b0879d35d100ce51f84f9c0474862b12cf351f5c7d261b306dd,ruby:>= 2.0.0
+1.0.1.pre1 googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:c6f392a1c02018beb73ea315edd2dda01ce43532bcb9da7e4fdb8f8e6d1d468e,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.1.pre1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:e8fd0ea597a4dd27c5dac1b8ff43a6f1d14844b033738c3b2cdbcb00abceb303,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.1.pre1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:9df69ebd828a490edb02e8f6fd40a86a2d28edf22b5d3a9afc33d6f129709ccf,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.1.pre1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:a309c676161d62d5f253b55c34ce2929e6fe113cdd0cb5d0315de26bb42777b4,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.1.pre1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:49569b84e026ac6bafe5bca44a761c731e988038fafb2dff76a709c33ce216b4,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.1.pre1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:43e0636538063410dc18cf8975bf6b31a123bd7b4677292d5422a2ca83b4250c,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.0.1 googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:05e2a2e33e0c4a3bb20cf6cf960882c88352eb0f2871a1d4ffb7f2f64bcce064,ruby:>= 2.0.0
+1.0.1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:b423aacc66d7480fb55610d51065cb1f7d9d99eeb5e703a641d099ae64b7ad0d,ruby:>= 2.0.0
+1.0.1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:3795e0e54346e7001865980ed5ff5c5d999e766ae3e1b7b6b52ed0c123ab0e44,ruby:>= 2.0.0
+1.0.1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:c0c26af4bf15c8b09161d6a0d9dc306f3a7419b5c5982d2a75044950a4f618af,ruby:>= 2.0.0
+1.0.1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:83d5d8deb836506ab886f79ecf19d30023e0b8363368e9867f224b667e49c261,ruby:>= 2.0.0
+1.0.1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.0.2|checksum:b7482e686562c56dcd19b0149de6b1aacde0a0f6fcd174e1e2f123b554de3b3e,ruby:>= 2.0.0
+1.1.2 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:c071a49abf0339ebaec77fdb5dcb8c9450bc3a1625b1c00a2db97717e265eba8,ruby:>= 2.0.0
+1.1.2-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:ae2b9625e00f5b2eaec0c721b3430b7bcfdb3323919274b92bc27557636ebb0e,ruby:< 2.5, >= 2.0
+1.1.2-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:2787cdd623176944f54ae1a67d1f2e77c5a3201a502d68fbb48f69efd7bcfe1c,ruby:< 2.5, >= 2.0
+1.1.2-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:cccf97d931d37eb2eceadad277836a6c209434a404fdf3dc4998dcc32ed4512b,ruby:< 2.5, >= 2.0
+1.1.2-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:f37e05a12a7deb83d8f8d8090bfd45352dfea364bde58a9ff2ec5f44db7a8130,ruby:< 2.5, >= 2.0
+1.2.0.pre1 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:81ada5b7ba35657bd38875acae1b437b847abe99b28898f4768a554a443ea460,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.2.0.pre1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:2989aeaa7d3669fe0cf1164d667b3aa53f6fe105d4ba13bbe0cbfc16e50c5b63,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.0.pre1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:94cf4125e40e507efc4c45c5eff68a35d87d11925bd8199045a93de6120a0349,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.0.pre1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:1683b4682bf2d7eabe6421446d3e7668857a73c46ac6662e6351cdab97a6407f,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.0.pre1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:1a1a2f606a353ee36acd0d0a4423e67b9d7bd072d5af7662ef2a48c51c18bdf4,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.0.pre1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:398ca67de36f24609f876aabf0ced17225c5d0674b29d260dff21d8a0a841350,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.0 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:51e2df6c9a0255f1b8ba29b9e02a559454fb809759cfb71e32ebc2c6739169ad,ruby:>= 2.0.0
+1.2.0-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:c4d8606a2919b7e9a3da6e86743bbb277a40b19773a6357b9634a1792977b2ea,ruby:< 2.5, >= 2.0
+1.2.0-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:5536be2a948dc42a57247df72ca1c8d1edb4a3adc4a8c55cc708441363cdaaf6,ruby:< 2.5, >= 2.0
+1.2.0-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:a5306d2587aa264adf2bb83b525fe9f50294ace43b96cd7eb205dd1002fdb899,ruby:< 2.5, >= 2.0
+1.2.0-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:4ebbc2c0756b196f91a7ae60e83d79bc6925137b81c3c7cd9e4405e5d4a2041c,ruby:< 2.5, >= 2.0
+1.2.0-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:0cd7256a40ab00885b2a8d6a245dc08a75a9337b4af21858fe0fe130c0946bd3,ruby:< 2.5, >= 2.0
+1.2.1.pre1 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:43f64d4ecf63bb9ce786086152b93db20dc2ad5ea202f12be3bdddfb1e6d14b9,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.2.1.pre1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:4f264c99bcbe98ed42df36b574c08915acee0d6f2aedff2182e9e8f5ff0b4f38,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.1.pre1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:d37cdb5198331c8768948af85708018ae0141a22441bdc514df1985bfa0f751c,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.1.pre1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:0649b140d55e909a720550e57cc17a9048f21a0da72ee35f16b107c0191e8785,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.1.pre1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:a7434e89e4adc922f4c40cb4edd1b15f83fd32147973736d5fef4e7f7f40053d,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.1.pre1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:80394d16d146d75299b29aa281d63cf2fdbc202d89786852b312ad5eb32fc255,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.1.pre2 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:df9a21f135cb38c1d8aa9c7b1458360157b4ea035b60326f66d1fd058079ccf2,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.2.1.pre2-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:97a5ec68d64650692396bc1454a3c8faa5615c6e116cd3c155ee105db863b164,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.1.pre2-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:c818fd2b1f4e06037051cff2f5b2a943a97507df6015724cedb20b85a6754472,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.1.pre2-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:c6978d4fc69436343f448b7cb903c652a9a25130fcac809884200a92d9b2c8d1,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.1.pre2-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:65c2f1a8fd5a7bf86552ed46c26ea1f9b8046c65a38b8512602cf275ddf902bb,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.1.pre2-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:0886b69414fd72eec352968e7f3dfbdbb7d9a0f5ce7551c02ce12ea2b02fd812,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.2.2 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:477753d90cfbedec588354b50d38a65ed2dcc0c6bd67c174d064146db2872f1a,ruby:>= 2.0.0
+1.2.2-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:e4dbd047a5a07b525b236059a9e16aeaa2d7affc0d308bbd583c6b30c7830c10,ruby:< 2.5, >= 2.0
+1.2.2-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:9a0612c98b17aa8276243224351fbbccafc8436b5bfb3ccdc17273caf73f043b,ruby:< 2.5, >= 2.0
+1.2.2-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:e8e82799274640bb1d02cd29b4c2b74877cd3766371262998c93b0697de95768,ruby:< 2.5, >= 2.0
+1.2.2-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:4afebedd06d3f64ca85759cad8f3327505bc5f5acc8a7b58030c77f88bfa7235,ruby:< 2.5, >= 2.0
+1.2.2-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:8aae4f0db3809c1f9c70eebec7ad6e023e31b9e1530dcf6b24756cf2a80d3797,ruby:< 2.5, >= 2.0
+1.2.5-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:a09ea63ea39c392ce696c046d32ba46f9eb862ce7d65ef3c776288aa832f411b,ruby:< 2.5, >= 2.0
+1.2.5-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:1db9ada314a417a301b8bf471677799c364a817f6d9704f27b30f0ef04370c2b,ruby:< 2.5, >= 2.0
+1.2.5-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:4328b40bac3f847c0fd008e530f9c062047d5a04aa8475af61621caed7836124,ruby:< 2.5, >= 2.0
+1.2.5-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:56cd222d2d172b26807469262b7fc18bcce16ec974af3176dfdc0d1858ea62e2,ruby:< 2.5, >= 2.0
+1.2.5-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:b568eed04b6815071e1909327f5b974fb48c592256699f9f6fab81d3fa22ecca,ruby:< 2.5, >= 2.0
+1.2.5 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:81ff05d70279bb94679384b26a52e3ced6cde09abbf58faddafc0a6fd7313536,ruby:>= 2.0.0
+1.3.4 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:fa0e178f31958635cee51a03a006d597cf8f1070948c41945c75da5e08b00d74,ruby:>= 2.0.0
+1.3.4-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:41b79c10b672a5a441eb3a9eb7e0affa7b874dce04709b32d12a4be83b2c987e,ruby:< 2.5, >= 2.0
+1.3.4-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:5b8fee02fe4098569068a245a2cf5a551b2469b45327843d913c7f175f284146,ruby:< 2.5, >= 2.0
+1.3.4-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:ef64f968c1dcb5efb62d1d2f75ca5ae3b46b9c5314f0e2bbf95f18709eb612f9,ruby:< 2.5, >= 2.0
+1.3.4-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:b68e888e3e29a8cd82e805499dc52c0e9db4a658256418e2414c416affbfa385,ruby:< 2.5, >= 2.0
+1.3.4-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:bb36818f5511a63682fc3d45abc9a879d8c15730acf38020ebb406f707753705,ruby:< 2.5, >= 2.0
+1.4.0 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:927d8d3b486d8fa597cab6932b77a7a2b932e66d240d2182599ae2bac82e38ea,ruby:>= 2.0.0
+1.4.0-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:ee41f98f18b074155da2c57043eabe8eba4fb06fd2d574106501863332c15140,ruby:< 2.5, >= 2.0
+1.4.0-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:810abd78493aca56bb9aa8d857f75b944a94757a2afcd094050d7b3ff73a01ae,ruby:< 2.5, >= 2.0
+1.4.0-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:36d299f9060dd1f769fe367439f188533e7703b20e3b1a18e4905a5143b402ba,ruby:< 2.5, >= 2.0
+1.4.0-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:3ea882c9c3c5c12def50e4da28d2a7968615f4ab0df62ce0b6f26e9a7f9e0dc1,ruby:< 2.5, >= 2.0
+1.4.0-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:b2923a23901e2175ebdaf80689f790952bc290a1b0dbbfa4609365f3829b5524,ruby:< 2.5, >= 2.0
+1.4.1 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:531f2e47ab8c523bd676929e98cf06a524122f36e9eac2c6fd35a644b7d3e842,ruby:>= 2.0.0
+1.4.1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:60775f851ba6f755734b7ce90f5de98eaaa417869cc07c6fbecc60e218199697,ruby:< 2.5, >= 2.0
+1.4.1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:80029345cf03a49c8df79be6de63cfcfedf8889c2d9213dd74c5f0e91b4895d5,ruby:< 2.5, >= 2.0
+1.4.1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:d906b65d16101b88e8599dfb352185978d8a30240a152375452bf6584b6350f0,ruby:< 2.5, >= 2.0
+1.4.1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:8d15b3ea163e719f1e9dccdaee2c74005cecbd6e437fb08fd3c0a67937eccaeb,ruby:< 2.5, >= 2.0
+1.4.1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:7609d17a64a5394895a3e0138afebde2a0c290ddf21c514260bb31d059a01af2,ruby:< 2.5, >= 2.0
+1.4.5 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:682c932fac9eed30b1959ace474f6be1d31554b4ca7c75e1a31f21008c880cfe,ruby:>= 2.0.0
+1.4.5-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:4eeae9a8ce9c1581e09e1993f2d4a8b601f36b56ac06ad1b9b6fc65eb21253c0,ruby:< 2.5, >= 2.0
+1.4.5-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:1cd9f544e2542346bbf8c996f404ab32aa291aeeb8d4e09bdcc513fcd0de3244,ruby:< 2.5, >= 2.0
+1.4.5-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:df1a77e700a4ed22d82c14b9efca26627f1420e8bc5ac475bc6fc05b3b7294a4,ruby:< 2.5, >= 2.0
+1.4.5-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:95fcc56a84d532915c500263102f12ce9e5d62deccd3da726cff1048595fcb1c,ruby:< 2.5, >= 2.0
+1.4.5-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:b95c960f15ac5f8e20b03d8fa604c4cf98c0658b655fc7a42426babeafd97011,ruby:< 2.5, >= 2.0
+1.6.0.pre1 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:8407d2ba61cf956969b532ee9b099fd05ed09bec2d99efc82527a892eb65eaa6,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.6.0.pre1-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:bc0dcc61e181cda55ef7a5bc6049837b2a393b0fa6f00f4626cd9fbc01c32b4e,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.6.0.pre1-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:aa3988eeb54711e50844da57632ca35cbb2c9675922875ce1525a9abbdc88e25,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.6.0.pre1-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:efce829c72ad303f76f58a97e7101265702d0873ba18bf7b1ce49c46270bf7a1,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.6.0.pre1-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:3f8813c1286ad3ebe79cdcfcb00de65982c0c12996cc822408a535f020e141b1,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.6.0.pre1-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:ca2f78f66f457240726f4f673313253215b9a0d53843bb88960d34a31141ce68,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.6.0 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:a2b01f00e72e4b164287a32fc9bec48e82d8660982b1b7ae2cfd201415bed114,ruby:>= 2.0.0
+1.6.0-universal-darwin googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:bd5b4e72f86a9c132e1228155393f77911ffec683fe12f43707f4204e77f49c1,ruby:< 2.5, >= 2.0
+1.6.0-x64-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:31fecbc40cadd0d21733dd3be2695241330e224a121b03e4d415f65040c334bc,ruby:< 2.5, >= 2.0
+1.6.0-x86_64-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:3da8c58084d25469511289cd311d38c8ef57270561e3bb5418ff9e2b4e9ac9af,ruby:< 2.5, >= 2.0
+1.6.0-x86-linux googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:16899b884a3b6eb0ffd6ea0a850517e2c16e51ffe3dca3a484a2c382f3075393,ruby:< 2.5, >= 2.0
+1.6.0-x86-mingw32 googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:8628b88393aa1c8a3043f63fa7539439cc86e555a94570f675281a66a5b48bb6,ruby:< 2.5, >= 2.0
+1.6.2 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:d02e319a522b8cccfac4e3023fb8a1f3f15f3a50591fabeab0e04e2155531436,ruby:>= 2.0.0
+1.6.2-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:58ea3adea03a10b48feb1bf17e3539290b23a234c4b813023613a941026951da,ruby:< 2.5, >= 2.0
+1.6.2-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:450a36dd7712a9ae09d4188bcf1cc0a37017258ef30a6a0052aac272a902b760,ruby:< 2.5, >= 2.0
+1.6.2-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:1c0dce924f8a277eb57305fd1125b64ea2d06f205e2a9f1de93c1515e948a90f,ruby:< 2.5, >= 2.0
+1.6.2-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:c1faa75b9cd17cf0090852af00ea62a65c06aae25727c50e6f6719d2072bf12e,ruby:< 2.5, >= 2.0
+1.6.2-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:62e15181d5b2aea20deea37b39e0f7128fc6ff54b15edf47920b133826721912,ruby:< 2.5, >= 2.0
+1.6.4-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:8954b54e4955a6cb4f28503ac9c49542a9a8afed19025f5a1b36cb37870201fa,ruby:< 2.5, >= 2.0
+1.6.4-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:3f2d0b224d03c21d79bfc45532d82ac944a964c2ebac6f824d5d78c224c38e57,ruby:< 2.5, >= 2.0
+1.6.4-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:0e013e57c9d8c9d2b03e73c3c986af7e39e89a1cb393a0b8143dbc0729508b02,ruby:< 2.5, >= 2.0
+1.6.4-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:d8d08f4712feb07b8acbc31c41759c4d5539b27a46fc08c0d3030d8cec2f5d02,ruby:< 2.5, >= 2.0
+1.6.4-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:eb4d025db1a834894b05f015ab40a6de424c9ce66ecee07190e23b32e6c79fcc,ruby:< 2.5, >= 2.0
+1.6.4 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:ec22812c9120809d173f10bad0aad3133b0734023014615add56b16ae604e52c,ruby:>= 2.0.0
+1.6.6 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:74ec4ce19e3688140c58e9b5769da8a57fb752325748cee3c92498b1094870c5,ruby:>= 2.0.0
+1.6.6-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:091a45c2aea7a0afc05d8c9f71bea18d7e3d21cfd33ae40e5ba1aedf3c368582,ruby:< 2.5, >= 2.0
+1.6.6-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:08fd8d82ca25c0368a8b0011330f80c562be00079b87f8b04349d2e83280d989,ruby:< 2.5, >= 2.0
+1.6.6-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:093182bc9eaaa8a867bea69b723915272dddc2ad6d617ca6c074eaa3b8b66d9e,ruby:< 2.5, >= 2.0
+1.6.6-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:d28ab6c676c9166995930c2aecd77fcfa75aedb0563a851da710eb15968cce29,ruby:< 2.5, >= 2.0
+1.6.6-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:bcf280b7ff36d7242238fd59276356b2b1b893751dd25cad73a00e23ab2ea6db,ruby:< 2.5, >= 2.0
+1.6.7 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:e18a66b58ce0350150bbdfd57d96757833c86d86adc737ee7e123479e2a35fbf,ruby:>= 2.0.0
+1.6.7-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:d8493dfe58be358a61472dd15905f94bdc428e72d31ba35943768f0d431e52db,ruby:< 2.5, >= 2.0
+1.6.7-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:f518e716ace66033a06e64fe55cd8b9e6535938809c1083b271b51b668b4c13a,ruby:< 2.5, >= 2.0
+1.6.7-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:ad69cd4cf93c76bd6ecb66c2d020d619c4e1bb80f81cb3ed6d689c7720fe6c52,ruby:< 2.5, >= 2.0
+1.6.7-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:396d3d210834b15e584372a55c546c817236d86cc787c1b5f36e7dee6438704d,ruby:< 2.5, >= 2.0
+1.6.7-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:d420185bb2eb668cd106a2a5c92641ace67088c184851d5fbeed9f9a9e846540,ruby:< 2.5, >= 2.0
+1.7.0.pre1 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:a00d34898e8ae3f13bed8e1f3a735a6fb1c65392581ce1010d663fa74680dfcb,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.7.0.pre1-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:ce05111907c16134238ae3c45fc43e3324dae5fd4b4761b11677dee71055d591,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.7.0.pre1-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:ac7ea869562964477fbd7a0ccd89ae236a5889b81b649fa6685e6e3fed8ce34f,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.7.0.pre1-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:011bff98a61796729a5e5e5607d9f513b5f2f333d6cc01ff874ff7bbf1a719d9,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.7.0.pre1-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:721879db03b71bfa1825409795c39c6da9a34f76ce7bf4cabcbbc50efde916fd,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.7.0.pre1-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:806da315c154b24608645ccf5b6885a3977ab40ad95b36ea8ef881e592b6c8f4,ruby:< 2.5, >= 2.0,rubygems:> 1.3.1
+1.7.0 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:ad3f7430ac94751bf0d5f89a55696b2d042b52154f31336db03642aea16e5403,ruby:>= 2.0.0
+1.7.0-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:a483e2f03ac2ae09c7fa50a45e495ac1f1d9a2054a08805aa095011540f8cf1c,ruby:< 2.5, >= 2.0
+1.7.0-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:4a1ca31dc4375c154e333202e82bf98a39eaf5f94a30f66c5ea9a20376ed19be,ruby:< 2.5, >= 2.0
+1.7.0-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:737c166f27681bd984799f2aa3908b28a0cde15554176b821df339afbfabeee7,ruby:< 2.5, >= 2.0
+1.7.0-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:94bb55802e9b3e43cdaaf4fd3b31350d07c35b77375d3c3f89a15d3c0ae5558a,ruby:< 2.5, >= 2.0
+1.7.0-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:~> 0.5.1,google-protobuf:~> 3.1|checksum:1bf2cd28787ce5bf3feb0b7e8cb7fe312fa69c8d4c075ec2d6f709d5517a7ecb,ruby:< 2.5, >= 2.0
+1.7.1 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:bc44c8af0d9c2cb4de3dec70d10ac08e9ebd1a40d902469f85aa232a0d1c345b,ruby:>= 2.0.0
+1.7.1-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:69f4b6be5597b50b0c612d77acfca144266edf67c283c64615d2286e8a5bca03,ruby:< 2.5, >= 2.0
+1.7.1-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:996c9bd9dfccb723f7b761b127ce159fd96af07ae10205227911c800d9da3dfb,ruby:< 2.5, >= 2.0
+1.7.1-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:6b878b42e33532acb8eecedaac7783537fb47d0f42a807d1f5a09aef98ce99e0,ruby:< 2.5, >= 2.0
+1.7.1-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:c81f0bb9d722323cbd11c838e30e91b350ad51f20b7e330611c02e1035404fc0,ruby:< 2.5, >= 2.0
+1.7.1-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:418cd9edadee5264a7ba4bb2e98d06a1e25a75282f30218eab66ed45165f0191,ruby:< 2.5, >= 2.0
+1.7.2 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:d0e12bdc3584945ad4e4b0cb0f0711190baf6bf69aa9c2f537b1443918816393,ruby:>= 2.0.0
+1.7.2-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:6daac87074e9c9f79e7a72f2819b98b71d98f3eca2768fb1fd86a5f74dec75c0,ruby:< 2.5, >= 2.0
+1.7.2-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:d6bf2c0da86f0a2fbb11334ea65878529fc9e2c4b7048842af41c53da173cec3,ruby:< 2.5, >= 2.0
+1.7.2-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:84a3fabb675902ba4baa1d84d8fdff9e200cd55dd11459c1e459aa9c09d732fd,ruby:< 2.5, >= 2.0
+1.7.2-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:cbe7cf0d208c4e588be54a074efd97db85d79b7d3c70e4a011250d37bc84aac9,ruby:< 2.5, >= 2.0
+1.7.3 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:a9bfa63a5186762a9443e59f1e8149db5d8fae109eddbffe3c41da0d8fe90353,ruby:>= 2.0.0
+1.7.3-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:39b60df4e3d2bb01b6f0ac5349a72bb7749fa12f130b9edfe07df30d69b39bdd,ruby:< 2.5, >= 2.0
+1.7.3-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:0708695c3d5f7875fb7633b80328fd11a82807a633c92d8010ff7b86cb68de74,ruby:< 2.5, >= 2.0
+1.7.3-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:0505fff30627375d48a9023b19aba7268718fbe3d62394d542346cb417b953ad,ruby:< 2.5, >= 2.0
+1.7.3-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:cf3191c898f27cdaa05dbd2a72101ce3fa8aaeedc637933787ceac08d34af6ad,ruby:< 2.5, >= 2.0
+1.7.3-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:3d462b1723af650b8324d06aa5de5f187fe2fc726b82586a600370e06fc1905e,ruby:< 2.5, >= 2.0
+1.8.0 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:1372253d7fb102a2e1d9c6e93275dab328bf8f66bdc202bad368c02256de9e0d,ruby:>= 2.0.0
+1.8.0-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:5e3d2fe67150552b45f63c87df8a289d03d375ac7d1800e428066f154111d109,ruby:< 2.5, >= 2.0
+1.8.0-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:8ddfa72406fdbc8a4db78af05ce817730f8d68e026ac93d54e86391f519f8535,ruby:< 2.5, >= 2.0
+1.8.0-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:d3b58d46cc00fc47a546cf3dfafb2d21f3921635280ec9a9b97d2114e91b421c,ruby:< 2.5, >= 2.0
+1.8.0-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:3cdcd5e3f56d486e3989a3548992932be5fd0a9994d2ce6856a6033dc7782872,ruby:< 2.5, >= 2.0
+1.8.0-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:6dca7d18ba6d897f4397bd5b677d39d2af7b84bd706bc42d119f98e1fb203348,ruby:< 2.5, >= 2.0
+1.8.3 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:325cebecb234f39ad0215edfbb9c65637aa79ddf632fc84f458755a6f0efeb3a,ruby:>= 2.0.0
+1.8.3-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:22e98aa59db01b7d9643323cbd258856ace5a364533529b6ef57507c8c6e1d29,ruby:< 2.5, >= 2.0
+1.8.3-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:7eccd6c7597de1cacca3f82a0ebd48459d33177788e008972d14f3081a61d6d4,ruby:< 2.5, >= 2.0
+1.8.3-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:47acb8122a726aa60c281a2b6d08406bb38d17667d4b50f0a35d886a95c3e867,ruby:< 2.5, >= 2.0
+1.8.3-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:e9d1062fed573868b7d4567a6e5b94ee015821ba471908139d2ddfa134353c03,ruby:< 2.5, >= 2.0
+1.8.3-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:a49c8773579ff0b51ba9a5a7e1c548874bee2d2e289ed38ef9509789de4f7326,ruby:< 2.5, >= 2.0
+1.9.0.pre1 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:f1ea6995b46e54bd699b563590c31201d0418f0cab8b92ce6ff6d807f19387a5,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.9.0.pre1-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:f3f55773f1871a04f0a55c0393caaf2899fef9dcbf5527e54cfcf9ef67d9bde3,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre1-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:33b3881c18f1d091707e1cabbb18792b29c0dfbb5c969890ef5c26d87453e41f,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre1-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:bdc3d9cae0ec7f0be8c4d59643e49a822a0c0ee1621b59cdf5e1df34c778e4cf,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre1-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:e81f8a3b93dc6a8d667e3f4a45c0e7d363df118135455634a330f0589d5b21e5,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre1-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:266b292342d2ee1eb7d5149a76b7a0913de46fd343b498f3337cf290d1ee8a83,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre2-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:68cd1cb000e081c8ef6bb2b7432f2348534bc1a9123938c66b1a7de6c5764829,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre2 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:341a043b6fd154ed5581803ff7380427fa47d96655813ce2c0b8eca00e28364a,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.9.0.pre2-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:8b02857ead3a301154681c551a158ad2dfa03b7000d266f597bfdcaa3acbb65b,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre2-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:f9705b63c8cbf99c701859a54a774641c1caae9b557b2f4a40deb8d3cc431a27,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre2-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:59ee6ddff8ee6ef7c655e45753720a7e05e042ea34270fb9790d198ecee9113f,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre2-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:3e2e39613c66eb0644cc411beb88f5d3fa3bf6755ed1d88e4325fc2fb4ecf8ec,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre3 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:11d49a61baf30d262f9d27d5f6d00f1b731992c5073ddf07f1d69c85314277f0,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.9.0.pre3-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:674eb1784731b2b620d38ae461340d7709041d090053ee39b98751a95f246f63,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre3-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:de0f68c6781cdf576c66e42f1701fed79ed881a59267a48f0453fb2f15f4f862,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre3-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:fad25c15dd4f74f97acaf170289d897fe14629482dc1f18673e064fcee82cdf3,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre3-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:f567cb542ceed92766dad45177efdb8b3540816f6fbc5b76ec3d067964582014,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.9.0.pre3-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:7f0d5a10c623b070e5cee514b31edcf7ac7a71c6e69f58fc3b291518e8d5abee,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.8.6 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:aaf61fbf9d99884db9de35a9f99f6a83ce0941e170aac2a69066feedbd5d2208,ruby:>= 2.0.0
+1.8.6-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:3d0d056438d1bbd79a7c19699d1b9012267aede8fbaf32b7bb8db79d7c26c49e,ruby:< 2.5, >= 2.0
+1.8.6-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:3c6e60e61bf1ac49baf3398e3966a8e9f2f0c111890629bad77a5115027d8ca8,ruby:< 2.5, >= 2.0
+1.8.6-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:c3e6998e5ecf4d945fcba6dc7dea63631174308eadd0a36e538cd7e4fa0eaf9b,ruby:< 2.5, >= 2.0
+1.8.6-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:843665ea72a0493d72ac0b0664526d7d9e8d1406f0085d256a115ef2fb1c6c73,ruby:< 2.5, >= 2.0
+1.8.6-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:a31f4ba36181ea4d18f19433e65b2056b1688b6709b565ec0969077a0b464ba6,ruby:< 2.5, >= 2.0
+1.8.7 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:0b09ce7428083894a06049811eda5d2add6ea0b35806e89d8af365f2fc056809,ruby:>= 2.0.0
+1.8.7-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:a36e317a9f03feaa3d5574e5951ca02d08a281b4b4430dc43ef164a0a36378e5,ruby:< 2.5, >= 2.0
+1.8.7-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:a002d3417b652cea94b8fa76cafb256809f922466ec58583b4fa14b06ebf2428,ruby:< 2.5, >= 2.0
+1.8.7-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:68b126e8571b3c22651d9ae20e9e0c22094180b89a189197f82ae681290fcf64,ruby:< 2.5, >= 2.0
+1.8.7-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:06562560d1d6eec4bd818157a28fb0a4a6941181067f2cc4297ad15c0efaea7e,ruby:< 2.5, >= 2.0
+1.8.7-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:481509a365f610a078abb04e313db6080dcd379bb6ee5b7e57265c353199142e,ruby:< 2.5, >= 2.0
+1.9.1 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:c63e0497b8a19448f66f8a94fa1ed4a22549ccb07d058f289342e5dbff0f4bba,ruby:>= 2.0.0
+1.9.1-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:7f26f003a1e7ce65fa4f9b56bd1a752ce27d29d1c5c674b7ab8b774bf434a7a9,ruby:< 2.6, >= 2.0
+1.9.1-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:9e981a4b44f51fd474fc62b9a707bbb707c809ac042859b9059abeb9fe7c1f4d,ruby:< 2.6, >= 2.0
+1.9.1-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:ed4bf6efafc9d30a596d7d0bc93fc7402c0e1700dba8df15a0a6ea91ee69a535,ruby:< 2.6, >= 2.0
+1.9.1-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:5e9e044cfbae5a3633013a3b47aaebd1bcb7d264b79306297134304ec4a4689c,ruby:< 2.6, >= 2.0
+1.9.1-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:8ddc86041c2f22289918ba42d46eb8606e0135434b046c3af4e4a8cb31151696,ruby:< 2.6, >= 2.0
+1.10.0.pre1 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:31ecdf5168b24deb74d9199fc9894af0426df05226404f9c3662cfa2ed6f6670,ruby:>= 2.0.0,rubygems:> 1.3.1
+1.10.0.pre1-x86_64-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:e9aa5a926285f90bda49e017ec3052aab79fb9b343ae776d5674736ca094a7a9,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.10.0.pre1-x86-linux googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:6b7414c311607bc46e7d98e67bcff0d567c3e29512692a568da1d6ebef4e6f99,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.10.0.pre1-x86-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:fdbc51f0112b7123676230d4c56ff56a3573cca85a2b8cf324675740c9cbba5e,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.10.0.pre1-x64-mingw32 googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:e0c85096d5084ed3f291f87f3fad09b5743b020850960d4b42b3357bd303916e,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1
+1.10.0.pre1-universal-darwin googleapis-common-protos-types:~> 1.0.0,googleauth:< 0.7&>= 0.5.1,google-protobuf:~> 3.1|checksum:29f005bd267dbbc905c3331c5c914cabf3643e73e2a7e01ec9bc7bbb35e33681,ruby:< 2.6, >= 2.0,rubygems:> 1.3.1

@@ -1,0 +1,13 @@
+---
+0.8.0 coffee-script:>= 0,multi_json:>= 0,slim:~> 1.1.0,sprockets:>= 0,temple:~> 0.4.0|checksum:be98b34c00ec389fa2e66cf015628df2691bbeaabfc458bc48ee08c91f4c1cc7
+0.8.1 coffee-script:>= 0,multi_json:>= 0,slim:~> 1.2.0,sprockets:>= 0,temple:~> 0.4.0|checksum:cae4d4fa746fa437a6ca6108ff217ef932e88e6fd1d56282c4ffa3749aa91892
+0.8.2 coffee-script:>= 0,coffee-script-source:>= 1.2.0,multi_json:>= 0,slim:~> 1.2.0,sprockets:>= 0,temple:~> 0.4.0|checksum:36b229e165704131c3052a0f8b05a25ddab36718352685cd418b86d7196cfa4b
+0.8.3 coffee-script:>= 0,coffee-script-source:>= 1.2.0,multi_json:>= 0,slim:~> 1.2.0,sprockets:>= 0,temple:~> 0.4.0|checksum:c9e7a8ea3cc7bc5bd206989fa9ca82c8cb541884e81ef3df9d4ba811c482755c
+0.8.4 coffee-script:>= 0,coffee-script-source:>= 1.2.0,multi_json:>= 0,slim:~> 1.2.0,sprockets:>= 0,temple:~> 0.4.0|checksum:c8f3bf06f314e5a24cb4dc05c087fdb1911745d63b75a859980fa08e270297fb
+0.8.5 coffee-script:>= 0,coffee-script-source:>= 1.2.0,multi_json:>= 0,slim:<= 1.2.0,sprockets:>= 0,temple:<= 0.4.1|checksum:e2398cebf8e187dffc7935ffb7170317eee2128c3463c0e70f9b022c8e710be5
+0.8.6 coffee-script:>= 0,coffee-script-source:>= 1.2.0,multi_json:>= 0,slim:<= 1.2.2,sprockets:>= 0,temple:<= 0.4.1|checksum:17092de2313e2ee6e31331d289599e146e9178eb9f034d3d4355b9599881f0ba
+0.9.0 coffee-script:>= 0,coffee-script-source:>= 1.2.0,slim:~> 2.0.0,sprockets:>= 0|checksum:50febda0ab75a7810e8dded378f13c7276f3b9d898e71a9b4c4e3f0df12bd64c
+0.9.1 coffee-script:>= 0,coffee-script-source:>= 1.2.0,slim:~> 2.0.0,sprockets:>= 0|checksum:6e767969c123623140018187b64146dbb8423d0c9ab1bcb8b402393a56f866b5
+0.9.2 coffee-script:>= 0,coffee-script-source:>= 1.2.0,slim:~> 2.0.0,sprockets:>= 0|checksum:4cc77b452be5c41a3f0e64c98a965aaa44f708aa6ddc624f9562d231068444a2
+0.9.3 coffee-script:>= 0,coffee-script-source:>= 1.2.0,slim:~> 2.0.0,sprockets:>= 0|checksum:544cdce4fd33edfddb3e6f777a115a6d9be5e293b61b1984265e662e8bf77e10
+0.10.0 coffee-script:>= 0,coffee-script-source:>= 1.2.0,slim:>= 3.0,sprockets:< 4&>= 2|checksum:579bc47afad1fe43034d724f4842c7c0b847ced7a6ec31b71a6678272c2943ef
