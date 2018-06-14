@@ -1,6 +1,7 @@
 # Dirs
 # ====
 alias dyouse="cd ~/Projects/youse"
+alias rubo="git ls-files -m | xargs ls -1 2>/dev/null | grep '\.rb$' | xargs rubocop"
 
 # Config
 # ======
